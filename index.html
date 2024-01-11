@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>FoodIn-sites - Home Page</title>
+        <link rel="icon" href="Pictures/LOGO.png" type="image/icon type">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+    <body>
+        <div class="top-nav-bar">
+            <header><div class="topic">
+                <a class="pj-name"><img id="logo" src="Pictures/LOGO.png"> FloodIn-sites</a>
+                <a class="active">Home</a>
+                <a href="map.html">Map</a>
+                <a href="plot.html">Plots</a>
+                <a href="data.php">Data</a>
+            </div></header>
+        </div>
+
+        <div class="main">
+            <div class="bg-image">
+                <img src="https://papers.co/wallpaper/papers.co-vy51-digital-art-square-graph-bokeh-pattern-background-blue-25-wallpaper.jpg">
+            </div>
+            <div class="overlay"></div>
+            <div class="heading">
+                <h1>FloodIn-sites</h1>
+                <p style="color: #dbe1ff; font-size: 23px; margin-top: -35px; padding-bottom: 35px; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; font-weight: lighter">Spatial Data Analysis of Flood Events in India</p>
+                <div class="learn">
+                    <a href="#about" class="toscroll">Learn More  &emsp;&rarr;</a>
+                </div>
+            </div>
+            <div class="about">
+                <div class="writing">
+                    <section id="about"><h1>About</h1></section>
+                    <p>Floods are a frequent natural disaster that inflict significant losses on the
+                        environment, the economy, and the population in India. Understanding the
+                        mechanics of floods is crucial for disaster management and preparedness in this
+                        diverse and disaster susceptible country. In India, floods rank among the most
+                        devastating and most common natural disasters, taking millions of lives each
+                        year. These floods can be caused by a variety of factors, such as heavy rains, river
+                        overflow, cyclones, snowmelt, and dam failures. Since floods are directly related
+                        to India's topography, climate, and monsoon patterns, it is imperative to
+                        comprehend their causes, historical context, geographic distribution, and
+                        mitigation strategies. Flooding, one of India's deadliest and most common natural
+                        disasters, kills millions of people every year. Statistical methods are helpful in
+                        analyzing numerical data, but they are not appropriate for characterizing the
+                        "methodological form" of floods, which is a complex system affected by several
+                        factors. </p>
+                </div>
+                <div class="abt-image">
+                    <img src="https://www.manilatimes.net/manilatimes/uploads/images/2021/07/25/9166.jpg">
+                </div>
+            </div>
+        </div>
+    </body>
+
+    <style>
+        @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Montserrat:wght@700&display=swap");
+
+        :root {
+            /* Colors */
+            --brand-color: #dbe1ff;
+            --black: hsl(0, 0%, 0%);
+            --white: hsl(0, 0%, 100%);
+            /* Fonts */
+            --font-title: "Montserrat", sans-serif;
+            --font-text: "Lato", sans-serif;
+        }
+
+        /* RESET */
+
+        /* Box sizing rules */
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+        }
+
+        html{
+            scroll-behavior: smooth;
+        }
+
+        body{
+            margin: 0px;
+            scroll-behavior: smooth;
+        }
+
+        .top-nav-bar{
+            background-color: #001a33;
+            padding-top: 20px;
+            padding-bottom: 20px;
+			margin-top: -5px;
+            box-shadow: 10px 11px 18px -4px rgba(0,0,0,0.64);
+            -webkit-box-shadow: 10px 11px 18px -4px rgba(0,0,0,0.64);
+            -moz-box-shadow: 10px 11px 18px -4px rgba(0,0,0,0.64);
+            z-index: 999;
+            position: fixed;
+            width: 100%;
+        }
+
+        .top-nav-bar .topic{
+            align-items: right;
+            align-content: right;
+            text-align: right;
+            margin-right: 20px;
+            margin-top: -3px;
+        }
+
+        .top-nav-bar .topic a{
+            color: whitesmoke;
+            font-size: 21px;
+            letter-spacing: 3px;
+            font-family:'Courier New', Courier, monospace;
+            text-transform: uppercase;
+            text-decoration: none;
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-bottom: 21.5px;
+            padding-top: 26px;
+            cursor: pointer;
+            transition: all 0.5s ease;
+        }
+
+        .top-nav-bar .topic a:hover{
+            background-color: whitesmoke;
+            color: #001a33;
+        }
+
+        .top-nav-bar .topic .active{
+            background-color: #dbe1ff;
+            color: #001a33;
+        }
+
+        .top-nav-bar .topic .active:hover{
+            background-color: #dbe1ff;
+            color: #001a33;
+        }
+
+        .top-nav-bar .topic .pj-name{
+			background-color: #001a33;
+			color: whitesmoke;
+			font-family: Aclonica;
+			font-size: 28px;
+			text-transform: capitalize;
+			padding-right: 730px;
+			margin-top: 7px;
+            padding-top: 2px;
+		}
+
+		.top-nav-bar .topic .pj-name:hover{
+			background-color: #001a33;
+			color: whitesmoke;
+			pointer-events: none;
+		}
+
+		.top-nav-bar .topic .pj-name img{
+			width: 28px;
+			height: auto;
+			/* padding-top: 5px; */
+			/* margin-top: 5px; */
+		}
+
+        .main{
+            margin: 0px;
+        }
+
+        .main .bg-image{
+            max-width: 100%;
+        }
+        
+        .main .bg-image img{
+            z-index: 111;
+            position: absolute;
+            max-width: 100%;
+            height: auto;
+            margin-top: -147px;
+        }
+
+        .main .overlay{
+            z-index: 222;
+            position: relative;
+            max-width: 100%;
+            height: 698px;
+            background-color: black;
+            opacity: 0.65;
+        }
+
+        .main .heading{
+            z-index: 444;
+            position: relative;
+            max-width: 100%;
+            margin-top: -470px;
+            margin-left: 100px;
+        }
+
+        .main .heading h1{
+            z-index: 444;
+            position: relative;
+            color: #dfe1ff;
+            font-family: sans-serif;
+            text-align: left;
+            font-size: 60px;
+        }
+
+        .main .heading .learn{
+            margin-top: 80px;
+        }
+
+        .main .heading .learn a{
+            text-decoration: none;
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-top: 12px;
+            padding-bottom: 12px;
+            font-size: 18px;
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            text-transform: uppercase;
+            border: 3px solid #001a33;
+            background-color: #dbe1ff;
+            color: #001a33;
+            transition: all 0.3s ease;
+        }
+
+        .main .heading .learn a:hover{
+            border: 3px solid #dbe1ff;
+            color: #dbe1ff;
+            background-color: #001a33;
+        }
+
+        .main .about{
+            z-index: 111;
+            background-color: #dbe1ff;
+            position: absolute;
+            width: 100%;
+            margin-top: 191.5px;
+            margin-bottom: 50px;
+            scroll-behavior: smooth;
+        }
+
+        .main .about .writing{
+            float: left;
+        }
+
+        .main .about h1{
+            z-index: 111;
+            position: relative;
+            width: 100%;
+            padding-left: 100px;
+            padding-top: 20px;
+            text-transform: uppercase;
+            font-size: 60px;
+            font-family: Garamond;
+            font-weight: lighter;
+            letter-spacing: 3px;
+        }
+
+        .main .about p{
+            z-index: 111;
+            position: absolute;
+            width: 49%;
+            padding-left: 100px;
+            padding-bottom: 75px;
+            margin-top: -42px;
+            font-size: 15.5px;
+            font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            text-align: justify;
+            letter-spacing: 1px;
+        }
+
+        .main .about .abt-image{
+            float: right;
+            padding-top: 70px;
+        }
+
+        .main .about .abt-image img{
+            z-index: 111;
+            margin-left: 45%;
+            margin-top: 10px;
+            position: relative;
+            width: 45%;
+            height: auto;
+            margin-bottom: 100px;
+            box-shadow: 18px 17px 27px 1px rgba(0,0,0,0.68);
+            -webkit-box-shadow: 18px 17px 27px 1px rgba(0,0,0,0.68);
+            -moz-box-shadow: 18px 17px 27px 1px rgba(0,0,0,0.68);
+        }
+
+        .main .cards{
+            z-index: 111;
+            /* position: relative; */
+            display: flex;
+            width: 100%;
+            margin-top: 750px;
+            margin-left: auto;
+            margin-right: auto;
+            place-items: center;
+        }
+
+        .main .cards .card{
+            width: 80vw;
+            max-width: 21.875rem;
+            height: 28.125rem;
+            overflow: hidden;
+            border-radius: 0.625rem;
+            box-shadow: 0.25rem 0.25rem 0.5rem rgba(0, 0, 0, 0.25);
+        }
+
+        .main .cards .card .card__background {
+            object-fit: cover;
+            max-width: 100%;
+            height: 100%;
+        }
+
+    </style>
+
+</html>

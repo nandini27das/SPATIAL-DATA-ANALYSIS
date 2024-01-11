@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>FloodIn-sites - Plots</title>
+        <link rel="icon" href="Pictures/LOGO.png" type="image/icon type">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script> 
+    </head>
+
+    <body>
+        <div class="top-nav-bar">
+            <header><div class="topic">
+                <a class="pj-name"><img id="logo" src="Pictures/LOGO.png"> FloodIn-sites</a>
+                <a href="index.html">Home</a>
+                <a href="map.html">Map</a>
+                <a class="active">Plots</a>
+                <a href="data.php">Data</a>
+            </div></header>
+        </div>
+
+        <div class="main">
+            <div class="plot-option">
+                    <select name="graph-type" id="graph-type">
+                        <option selected disabled value="label">Select a type of plot</option>
+                        <optgroup label="Barplot">
+                            <option value="yearly-barplot">Yearwise barplot</option>
+                            <option value="monthly-barplot">Monthwise barplot</option>
+                            <option value="statewise-barplot">Statewise barplot</option>
+                            <optgroup label="&nbsp;&nbsp;&nbsp;Regionwise" >
+                                <option value="all-region-barplot">&nbsp;&nbsp;&nbsp;Barplot - All regions</option>
+                                <optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;East">
+                                    <option value="yearly-east-barplot">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barplot - East- Yearly</option>
+                                    <option value="monthly-east-barplot">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barplot - East - Monthly</option>
+                                </optgroup>
+                                <optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;North-East">
+                                    <option value="yearly-north-east-barplot">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barplot - North East - Yearly</option>
+                                    <option value="monthly-north-east-barplot">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barplot - North East -Monthly</option>
+                                </optgroup>
+                                <optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;South">
+                                    <option value="yearly-south-barplot">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barplot - South - Yearly</option>
+                                    <option value="monthly-south-barplot">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barplot - South - Monthly</option>
+                                </optgroup>
+                                <optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;North">
+                                    <option value="yearly-north-barplot">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barplot - North - Yearly</option>
+                                    <option value="monthly-north-barplot">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barplot - North - Monthly</option>
+                                </optgroup>
+                                <optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;West">
+                                    <option value="yearly-west-barplot">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barplot - West - Yearly</option>
+                                    <option value="monthly-west-barplot">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barplot - West - Monthly</option>
+                                </optgroup>
+                                <optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Central">
+                                    <option value="yearly-central-barplot">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barplot - Central - Yearly</option>
+                                    <option value="monthly-central-barplot">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barplot - Central - Monthly</option>
+                                </optgroup>
+                            </optgroup>
+                        </optgroup>
+                        <optgroup label="Heatmap">
+                            <option value="all-years-heatmap">Heatmap - All Years</option>
+                            <optgroup label="&nbsp;&nbsp;&nbsp;Monthwise">
+                                <option value="april-heatmap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heatmap for April</option>
+                                <option value="may-heatmap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heatmap for May</option>
+                                <option value="june-heatmap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heatmap for June</option>
+                                <option value="july-heatmap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heatmap for July</option>
+                                <option value="august-heatmap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heatmap for August</option>
+                                <option value="september-heatmap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heatmap for September</option>
+                                <option value="october-heatmap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heatmap for October</option>
+                                <option value="november-heatmap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heatmap for November</option>
+                                <option value="december-heatmap">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heatmap for December</option>
+                            </optgroup>
+                        </optgroup>
+                        <optgroup label="Cluster Analysis">
+                            <option value="cluster-map">Cluster Map</option>
+                        </optgroup>
+                    </select>
+            </div>
+            <div class="plot-view">
+                <div class="label view">
+                    <h2>Please choose the plot type you wish to view</h2>
+                </div>
+                <div class="yearly-barplot view">
+                    <img id="yearly-barplot" src="Pictures/plots/barplot/D_fc_yearly.png">
+                </div>
+                <div class="monthly-barplot view">
+                    <img id="monthly-barplot" src="Pictures/plots/barplot/D_fc_monthly.png">
+                </div>
+                <div class="statewise-barplot view">
+                    <img id="statewise-barplot" src="Pictures/plots/barplot/D_fc_StateUT.png">
+                </div>
+                <div class="all-region-barplot view">
+                    <img id="all-region-barplot" src="Pictures/plots/barplot/D_fc_regionwise.png">
+                </div>
+                <div class="yearly-east-barplot view">
+                    <img id="yearly-east-barplot" src="Pictures/plots/barplot/D_fc_East_Yearly.png">
+                </div>
+                <div class="monthly-east-barplot view">
+                    <img id="monthly-east-barplot" src="Pictures/plots/barplot/D_fc_East_Monthly.png">
+                </div>
+                <div class="yearly-north-east-barplot view">
+                    <img id="yearly-north-east-barplot" src="Pictures/plots/barplot/D_fc_NEast_Yearly.png">
+                </div>
+                <div class="monthly-north-east-barplot view">
+                    <img id="monthly-north-east-barplot" src="Pictures/plots/barplot/D_fc_NEast_Monthly.png">
+                </div>
+                <div class="yearly-south-barplot view">
+                    <img id="yearly-south-barplot" src="Pictures/plots/barplot/D_fc_South_Yearly.png">
+                </div>
+                <div class="monthly-south-barplot view">
+                    <img id="monthly-south-barplot" src="Pictures/plots/barplot/D_fc_South_Monthly.png">
+                </div>
+                <div class="yearly-north-barplot view">
+                    <img id="yearly-north-barplot" src="Pictures/plots/barplot/D_fc_North_Yearly.png">
+                </div>
+                <div class="monthly-north-barplot view">
+                    <img id="monthly-north-barplot" src="Pictures/plots/barplot/D_fc_North_Monthly.png">
+                </div>
+                <div class="yearly-west-barplot view">
+                    <img id="yearly-west-barplot" src="Pictures/plots/barplot/D_fc_West_Yearly.png">
+                </div>
+                <div class="monthly-west-barplot view">
+                    <img id="monthly-west-barplot" src="Pictures/plots/barplot/D_fc_West_Monthly.png">
+                </div>
+                <div class="yearly-central-barplot view">
+                    <img id="yearly-central-barplot" src="Pictures/plots/barplot/D_fc_Central_Yearly.png">
+                </div>
+                <div class="monthly-central-barplot view">
+                    <img id="monthly-central-barplot" src="Pictures/plots/barplot/D_fc_Central_Monthly.png">
+                </div>
+                <div class="all-years-heatmap view">
+                    <img id="all-years-heatmap" src="Pictures/plots/heatmap/Hm_all_years_new.png">
+                </div>
+                <div class="april-heatmap view">
+                    <img id="april-heatmap" src="Pictures/plots/heatmap/Hm_april_new.png">
+                </div>
+                <div class="may-heatmap view">
+                    <img id="may-heatmap" src="Pictures/plots/heatmap/Hm_may_new.png">
+                </div>
+                <div class="june-heatmap view">
+                    <img id="june-heatmap" src="Pictures/plots/heatmap/Hm_june_new.png">
+                </div>
+                <div class="july-heatmap view">
+                    <img id="july-heatmap" src="Pictures/plots/heatmap/Hm_july_new.png">
+                </div>
+                <div class="august-heatmap view">
+                    <img id="august-heatmap" src="Pictures/plots/heatmap/Hm_aug_new.png">
+                </div>
+                <div class="september-heatmap view">
+                    <img id="september-heatmap" src="Pictures/plots/heatmap/Hm_sep_new.png">
+                </div>
+                <div class="october-heatmap view">
+                    <img id="october-heatmap" src="Pictures/plots/heatmap/Hm_oct_new.png">
+                </div>
+                <div class="november-heatmap view">
+                    <img id="november-heatmap" src="Pictures/plots/heatmap/Hm_nov_new.png">
+                </div>
+                <div class="december-heatmap view">
+                    <img id="december-heatmap" src="Pictures/plots/heatmap/Hm_dec_new.png">
+                </div>
+                <div class="cluster-map view">
+                    <iframe src="https://www.google.com/maps/d/embed?mid=1AjJCdY-hdr0TnerVUQ95hGQWy6kEc5Q&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+                </div>
+                 
+                <!-- <img id="yearly-barplot" src="Pictures/plots/heatmap/Hm_All_Years.PNG"> -->
+                <!-- <iframe src="https://www.google.com/maps/d/embed?mid=1AjJCdY-hdr0TnerVUQ95hGQWy6kEc5Q&ehbc=2E312F&noprof=1" width="640" height="480"></iframe> -->
+            </div>
+            <script type="text/javascript"> 
+                $(document).ready(function() { 
+                    $("select").on('change', function() { 
+                        $(this).find("option:selected").each(function() { 
+                            var geeks = $(this).attr("value"); 
+                            if (geeks) { 
+                                $(".view").not("." + geeks).hide(); 
+                                $("." + geeks).show(); 
+                            } else { 
+                                $(".view").hide(); 
+                            } 
+    
+                        }); 
+                    }).change(); 
+                }); 
+            </script> 
+        </div>
+    </body>
+
+    <style>
+        body{
+            margin: 0px;
+        }
+
+        .top-nav-bar{
+            background-color: #001a33;
+            padding-top: 20px;
+            padding-bottom: 20px;
+			margin-top: -5px;
+            box-shadow: 10px 11px 18px -4px rgba(0,0,0,0.64);
+            -webkit-box-shadow: 10px 11px 18px -4px rgba(0,0,0,0.64);
+            -moz-box-shadow: 10px 11px 18px -4px rgba(0,0,0,0.64);
+            z-index: 999;
+            position: fixed;
+            width: 100%;
+        }
+
+        .top-nav-bar .topic{
+            align-items: right;
+            align-content: right;
+            text-align: right;
+            margin-right: 20px;
+        }
+
+        .top-nav-bar .topic a{
+            color: whitesmoke;
+            font-size: 21px;
+            letter-spacing: 3px;
+            font-family:'Courier New', Courier, monospace;
+            text-transform: uppercase;
+            text-decoration: none;
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-bottom: 21.5px;
+            padding-top: 26px;
+            cursor: pointer;
+            transition: all 0.5s ease;
+        }
+
+        .top-nav-bar .topic a:hover{
+            background-color: whitesmoke;
+            color: #001a33;
+        }
+
+        .top-nav-bar .topic .active{
+            background-color: #dbe1ff;
+            color: #001a33;
+        }
+
+        .top-nav-bar .topic .active:hover{
+            background-color: #dbe1ff;
+            color: #001a33;
+        }
+
+        .top-nav-bar .topic .pj-name{
+			background-color: #001a33;
+			color: whitesmoke;
+			font-family: Aclonica;
+			font-size: 28px;
+			text-transform: capitalize;
+			padding-right: 750px;
+			margin-top: 5px;
+		}
+
+		.top-nav-bar .topic .pj-name:hover{
+			background-color: #001a33;
+			color: whitesmoke;
+			pointer-events: none;
+		}
+
+		.top-nav-bar .topic .pj-name img{
+			width: 28px;
+			height: auto;
+			/* padding-top: 5px; */
+			/* margin-top: 5px; */
+		}
+        
+        .main{
+            z-index: 444;
+            position: absolute;
+            margin: 0px auto;
+            width: 100%;
+            background-color: white;
+            margin-top: 60px;
+            padding-top: 35px;
+        }
+
+        .main .plot-option{
+            width: 90%;
+            margin-top: -10px;
+            margin-left: 50px;
+            margin-bottom: 10px;
+        }
+
+        .main .plot-option select{
+            padding: 10px;
+            width: 300px;
+            font-size: 15px;
+            border: 2px solid #001a33;
+            border-radius: 5px;
+            background-color: whitesmoke;
+            cursor: pointer;
+            box-shadow: 10px 11px 18px -4px rgba(0,0,0,0.64);
+            -webkit-box-shadow: 10px 11px 18px -4px rgba(0,0,0,0.64);
+            -moz-box-shadow: 10px 11px 18px -4px rgba(0,0,0,0.64);
+            transition: all 0.2s ease-in-out;
+        }
+
+        .main .plot-option select:hover{
+            /* background-color: lightblue */
+            transform: scale(1.02, 1.02);
+        }
+
+        .main .plot-view{
+            width: 100%;
+            /* height: 458px; */
+            align-items: center;
+        }
+
+        .main .plot-view h2{
+            text-align: center;
+            width: 50%;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 190px;
+            color: lightblue;
+            font-size: 30px;
+            font-family: serif;
+        }
+
+        .main .plot-view img{
+            width: auto;
+            height: auto;
+            display: block;
+            margin-top: 30px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 30px;
+        }
+
+        .main .plot-view iframe{
+            width: 99%;
+            height: 600px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</html>

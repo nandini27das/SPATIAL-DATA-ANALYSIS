@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>FloodIn-sites - Map</title>
+        <link rel="icon" href="Pictures/LOGO.png" type="image/icon type">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+
+    <body>
+        <div class="top-nav-bar">
+            <header><div class="topic">
+                <a class="pj-name"><img id="logo" src="Pictures/LOGO.png"> FloodIn-sites</a>
+                <a href="index.html">Home</a>
+                <a class="active">Map</a>
+                <a href="plot.html">Plots</a>
+                <a href="data.php">Data</a>
+            </div></header>
+        </div>
+
+        <div class="main">
+            <div class="embedded-map">
+                <iframe src="https://www.google.com/maps/d/embed?mid=1igfPdotVv3gKc0aoeYpapfL6gVYhZMk&ehbc=2E312F&noprof=1"></iframe>
+            </div>
+        </div>
+    </body>
+
+    <style>
+        body{
+            margin: 0px;
+        }
+
+        .top-nav-bar{
+            background-color: #001a33;
+            padding-top: 20px;
+            padding-bottom: 20px;
+			margin-top: -5px;
+            /* box-shadow: 10px 11px 18px -4px rgba(0,0,0,0.64);
+            -webkit-box-shadow: 10px 11px 18px -4px rgba(0,0,0,0.64);
+            -moz-box-shadow: 10px 11px 18px -4px rgba(0,0,0,0.64); */
+            z-index: 999;
+            position: fixed;
+            width: 100%;
+        }
+
+        .top-nav-bar .topic{
+            align-items: right;
+            align-content: right;
+            text-align: right;
+            margin-right: 20px;
+        }
+
+        .top-nav-bar .topic a{
+            color: whitesmoke;
+            font-size: 21px;
+            letter-spacing: 3px;
+            font-family:'Courier New', Courier, monospace;
+            text-transform: uppercase;
+            text-decoration: none;
+            padding-left: 20px;
+            padding-right: 20px;
+            padding-bottom: 21.5px;
+            padding-top: 26px;
+            cursor: pointer;
+            transition: all 0.5s ease;
+        }
+
+        .top-nav-bar .topic a:hover{
+            background-color: whitesmoke;
+            color: #001a33;
+        }
+
+        .top-nav-bar .topic .active{
+            background-color: #dbe1ff;
+            color: #001a33;
+        }
+
+        .top-nav-bar .topic .active:hover{
+            background-color: #dbe1ff;
+            color: #001a33;
+        }
+
+        .top-nav-bar .topic .pj-name{
+			background-color: #001a33;
+			color: whitesmoke;
+			font-family: Aclonica;
+			font-size: 28px;
+			text-transform: capitalize;
+			padding-right: 750px;
+			margin-top: 5px;
+		}
+
+		.top-nav-bar .topic .pj-name:hover{
+			background-color: #001a33;
+			color: whitesmoke;
+			pointer-events: none;
+		}
+
+		.top-nav-bar .topic .pj-name img{
+			width: 28px;
+			height: auto;
+            /* margin-top: 5px; */
+			/* padding-top: 5px; */
+			/* margin-top: 5px; */
+		}
+
+        .main{
+            margin: 0px;
+            z-index: 111;
+            position: absolute;
+            width: 100%;
+            height: auto;
+            margin-top: 30px;
+            background-color: #dbe1ff;
+        }
+
+        .main .header{
+            width: 100%;
+            align-items: center;
+            text-align: center;
+        }
+
+        .main .header h2{
+            /* width: 50%; */
+            margin-top: 50px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 0px;
+            padding-bottom: 10px;
+            font-size: 33px;
+            font-family: sans-serif;
+            text-transform: uppercase;
+            font-weight: lighter;
+            letter-spacing: 3px;
+            line-height: 3.5rem;
+            color: #001a33;
+            border-bottom: 3px solid #001a33;
+        }
+
+        .main .embedded-map{
+            width: 100%;
+            align-items: center;
+            margin-top: 41px;
+        }
+
+        .main .embedded-map iframe{
+            width: 99.7%;
+            height: 645px;
+            /* margin-left: 65px;
+            margin-right: 65px; */
+        }
+
+    </style>
+</html>
