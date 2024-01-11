@@ -1,0 +1,917 @@
+Id,Date,Year,Month,Country,Country_code,State_or_UT,State_Code,District,Dist_Code,Place,lat_new,lon_new,Source,Region,cluster_label
+IND_001,"Saturday, June 10, 2000",2000,6,India,IN,Arunachal Pradesh,AR,East Siang,ESN,"Along, Boleng villages",28.07,95.43,EMD,North East,1
+IND_002,"Saturday, June 10, 2000",2000,6,India,IN,Arunachal Pradesh,AR,East Siang,ESN,"Pasighat, Sika-bamin, Komlighat, Raneghat",28.07,95.43,EMD,North East,1
+IND_003,"Saturday, June 10, 2000",2000,6,India,IN,Arunachal Pradesh,AR,Lohit,LHT,"Tezu, Mahadevpur villages",27.95,96.16,EMD,North East,1
+IND_004,"Saturday, June 10, 2000",2000,6,India,IN,Arunachal Pradesh,AR,Upper Siang,UPS,"Yingkiang,Tuting villages",28.62,95.01,EMD,North East,1
+IND_005,"Saturday, June 10, 2000",2000,6,India,IN,Assam,AS,Golaghat,GLG,,26.52,93.97,EMD,North East,1
+IND_006,"Saturday, June 10, 2000",2000,6,India,IN,Assam,AS,Nagaon,NGN,,26.35,92.68,EMD,North East,1
+IND_007,"Saturday, July 15, 2000",2000,7,India,IN,Arunachal Pradesh,AR,East Siang,ESN,,28.07,95.43,EMD,North East,1
+IND_008,"Saturday, July 15, 2000",2000,7,India,IN,Arunachal Pradesh,AR,West Siang,WSG,,28.19,94.32,EMD,North East,1
+IND_009,"Saturday, July 15, 2000",2000,7,India,IN,Arunachal Pradesh,AR,Upper Siang,UPS,,28.89,94.88,EMD,North East,1
+IND_010,"Saturday, July 15, 2000",2000,7,India,IN,Arunachal Pradesh,AR,Lower Dibang Valley,LDV,,28.22,95.51,EMD,North East,1
+IND_011,"Thursday, August 31, 2000",2000,8,India,IN,Telangana,TG,Adilabad,ALD,,19.66,78.5,EMD,South,0
+IND_012,"Thursday, August 31, 2000",2000,8,India,IN,Andhra Pradesh,AP,Kadapa,KDP,,14.47,78.79,EMD,South,0
+IND_013,"Thursday, August 31, 2000",2000,8,India,IN,Andhra Pradesh,AP,East Godavari,EGD,,17.37,81.08,EMD,South,0
+IND_014,"Thursday, August 31, 2000",2000,8,India,IN,Andhra Pradesh,AP,Guntur,GTR,,16.31,80.44,EMD,South,0
+IND_015,"Thursday, August 31, 2000",2000,8,India,IN,Telangana,TG,Hyderabad,HDR,,17.41,78.24,EMD,South,0
+IND_016,"Thursday, August 31, 2000",2000,8,India,IN,Telangana,TG,Karimnagar,KMN,,18.44,79.13,EMD,South,0
+IND_017,"Thursday, August 31, 2000",2000,8,India,IN,Telangana,TG,Khammam,KMM,,17.25,80.15,EMD,South,0
+IND_018,"Thursday, August 31, 2000",2000,8,India,IN,Andhra Pradesh,AP,Krishna,KSH,,16.42,80.11,EMD,South,0
+IND_019,"Thursday, August 31, 2000",2000,8,India,IN,Andhra Pradesh,AP,Kurnool,KNL,,15.83,78.04,EMD,South,0
+IND_020,"Thursday, August 31, 2000",2000,8,India,IN,Telangana,TG,Mahabubnagar,MHB,,16.75,77.98,EMD,South,0
+IND_021,"Thursday, August 31, 2000",2000,8,India,IN,Telangana,TG,Medak,MDK,,18.05,78.25,EMD,South,0
+IND_022,"Thursday, August 31, 2000",2000,8,India,IN,Telangana,TG,Nalgonda,NAL,,17.06,79.24,EMD,South,0
+IND_023,"Thursday, August 31, 2000",2000,8,India,IN,Andhra Pradesh,AP,Potti Sriramulu Nellore,PSN,,14.29,79.01,EMD,South,0
+IND_024,"Thursday, August 31, 2000",2000,8,India,IN,Telangana,TG,Nizamabad,NZM,,18.68,78.06,EMD,South,0
+IND_025,"Thursday, August 31, 2000",2000,8,India,IN,Andhra Pradesh,AP,Prakasam,PKS,,15.64,78.95,EMD,South,0
+IND_026,"Thursday, August 31, 2000",2000,8,India,IN,Telangana,TG,Rangareddy,RGR,,17.13,78.05,EMD,South,0
+IND_027,"Thursday, August 31, 2000",2000,8,India,IN,Andhra Pradesh,AP,Visakhapatnam,VSK,,17.74,83.22,EMD,South,0
+IND_028,"Thursday, August 31, 2000",2000,8,India,IN,Telangana,TG,Warangal,WRG,,17.95,79.59,EMD,South,0
+IND_029,"Thursday, August 31, 2000",2000,8,India,IN,Andhra Pradesh,AP,West Godavari,WGD,,16.92,81.34,EMD,South,0
+IND_030,"Wednesday, August 30, 2000",2000,8,India,IN,Bihar,BR,Katihar,KHR,,25.55,87.56,EMD,East,2
+IND_031,"Wednesday, August 30, 2000",2000,8,India,IN,Bihar,BR,Sitamarhi,SMH,,26.58,85.46,EMD,East,2
+IND_032,"Wednesday, August 30, 2000",2000,8,India,IN,Himachal Pradesh,HP,Kinnaur,KNR,,31.63,78.12,EMD,North,2
+IND_033,"Wednesday, August 30, 2000",2000,8,India,IN,Uttarakhand,UT,Pithoragarh,PRG,,29.58,80.22,EMD,North,2
+IND_034,"Wednesday, August 30, 2000",2000,8,India,IN,Uttarakhand,UT,Nainital,NNT,,29.39,79.45,EMD,North,2
+IND_035,"Wednesday, August 30, 2000",2000,8,India,IN,Gujarat,GJ,Ahmedabad,AMD,,23.02,72.57,EMD,West,0
+IND_036,"Wednesday, August 30, 2000",2000,8,India,IN,West Bengal,WB,Hooghly,HGL,,22.89,88.38,EMD,East,1
+IND_037,"Wednesday, August 30, 2000",2000,8,India,IN,West Bengal,WB,Purba Bardhaman,PBB,,23.23,87.86,EMD,East,2
+IND_038,"Wednesday, August 30, 2000",2000,8,India,IN,West Bengal,WB,Nadia,NIA,,23.48,87.81,EMD,East,2
+IND_039,"Wednesday, August 30, 2000",2000,8,India,IN,West Bengal,WB,Murshidabad,MSD,,24.18,88.23,EMD,East,1
+IND_040,"Wednesday, August 30, 2000",2000,8,India,IN,West Bengal,WB,Malda,MLD,,25.01,88.14,EMD,East,1
+IND_041,"Wednesday, August 30, 2000",2000,8,India,IN,West Bengal,WB,Howrah,HWR,,22.6,88.26,EMD,East,1
+IND_042,"Wednesday, August 30, 2000",2000,8,India,IN,West Bengal,WB,Birbhum,BRB,,24.06,87.23,EMD,East,2
+IND_043,"Wednesday, August 30, 2000",2000,8,India,IN,West Bengal,WB,Bankura,BNK,,23.23,87.08,EMD,East,2
+IND_044,"Wednesday, August 30, 2000",2000,8,India,IN,West Bengal,WB,North 24 Parganas,NHP,,22.62,88.4,EMD,East,1
+IND_045,"Wednesday, August 30, 2000",2000,8,India,IN,West Bengal,WB,Paschim Medinipur,PCM,,22.43,87.28,EMD,East,2
+IND_046,"Saturday, October 21, 2000",2000,10,India,IN,West Bengal,WB,Birbhum,BRB,,24.06,87.23,EMD,East,2
+IND_047,"Saturday, October 21, 2000",2000,10,India,IN,West Bengal,WB,Purba Bardhaman,PBB,,23.23,87.86,EMD,East,2
+IND_048,"Saturday, October 21, 2000",2000,10,India,IN,West Bengal,WB,Murshidabad,MSD,,24.18,88.23,EMD,East,1
+IND_049,"Saturday, October 21, 2000",2000,10,India,IN,West Bengal,WB,Malda,MLD,,25.01,88.14,EMD,East,1
+IND_050,"Saturday, October 21, 2000",2000,10,India,IN,Jharkhand,JH,Dumka,DMK,,24.28,87.27,EMD,East,2
+IND_051,"Saturday, October 21, 2000",2000,10,India,IN,Jharkhand,JH,Sahibganj,SHB,,25.23,87.62,EMD,East,2
+IND_052,"Saturday, October 21, 2000",2000,10,India,IN,Jharkhand,JH,Deoghar,DGR,,24.47,86.66,EMD,East,2
+IND_053,"Saturday, October 21, 2000",2000,10,India,IN,Bihar,BR,Sheikhpura,SKP,,25.14,85.85,EMD,East,2
+IND_054,"Saturday, October 21, 2000",2000,10,India,IN,Bihar,BR,Munger,MNG,,25.37,86.48,EMD,East,2
+IND_055,"Saturday, October 21, 2000",2000,10,India,IN,Bihar,BR,Bhagalpur,BGP,,25.19,86.74,EMD,East,2
+IND_056,"Saturday, October 21, 2000",2000,10,India,IN,Bihar,BR,Banka,BKA,,24.89,86.91,EMD,East,2
+IND_057,"Thursday, October 19, 2000",2000,10,India,IN,West Bengal,WB,North 24 Parganas,NHP,,22.62,88.4,EMD,East,1
+IND_058,"Tuesday, July 10, 2001",2001,7,India,IN,Odisha,OR,Angul,AGL,Athmalik village,20.85,85.13,EMD,East,2
+IND_059,"Tuesday, July 10, 2001",2001,7,India,IN,Odisha,OR,Khordha,KRD,Balipatna villages,20.18,85.67,EMD,East,2
+IND_060,"Tuesday, July 10, 2001",2001,7,India,IN,Odisha,OR,Cuttack,CTK,"Banki, Kantapada villages",20.46,85.88,EMD,East,2
+IND_061,"Friday, June 15, 2001",2001,6,India,IN,Maharashtra,MH,Mumbai Suburban,MBS,Bhandup area,19.16,72.78,EMD,West,0
+IND_062,"Friday, June 15, 2001",2001,6,India,IN,Kerala,KL,Kasaragod,KSG,Hosdurg borough (Kanhangad city ),12.5,74.99,EMD,South,0
+IND_063,"Tuesday, July 10, 2001",2001,7,India,IN,Odisha,OR,Puri,PRI,"Kakatpur, Astaranga, Kanas, Delanga villages",19.81,85.8,EMD,East,2
+IND_064,"Tuesday, July 10, 2001",2001,7,India,IN,Odisha,OR,Kendrapara,KDR,"Marshagal, Mahakalpada villages",20.5,86.42,EMD,East,2
+IND_065,"Friday, June 22, 2001",2001,6,India,IN,Assam,AS,Karimganj,KMG,Patharkandi village,24.87,92.36,EMD,North East,1
+IND_066,"Friday, June 22, 2001",2001,6,India,IN,Assam,AS,Cachar,CCR,Silchar City,24.75,92.51,EMD,North East,1
+IND_067,"Saturday, September 15, 2001",2001,9,India,IN,Bihar,BR,Saran,SRN,,26.05,84.62,EMD,East,2
+IND_068,"Saturday, September 15, 2001",2001,9,India,IN,Bihar,BR,Gopalganj,GPG,,26.48,84.43,EMD,East,2
+IND_069,"Saturday, September 15, 2001",2001,9,India,IN,Bihar,BR,East Champaran (Motihari),ECM,,26.63,84.98,EMD,East,2
+IND_070,"Saturday, September 15, 2001",2001,9,India,IN,Bihar,BR,Madhubani,MDB,,26.35,86.03,EMD,East,2
+IND_071,"Friday, June 22, 2001",2001,6,India,IN,Tripura,TR,West Tripura,WTP,,23.92,91.25,EMD,North East,1
+IND_072,"Tuesday, July 10, 2001",2001,7,India,IN,Odisha,OR,Jajpur,JJP,,20.84,86.33,EMD,East,2
+IND_073,"Tuesday, July 10, 2001",2001,7,India,IN,Odisha,OR,Jagatsinghpur,JSH,,20.26,86.17,EMD,East,2
+IND_074,"Tuesday, July 10, 2001",2001,7,India,IN,Odisha,OR,Kalahandi,KLH,,20.13,85.07,EMD,East,2
+IND_075,"Tuesday, July 10, 2001",2001,7,India,IN,Odisha,OR,Koraput,KPT,,18.81,82.71,EMD,East,0
+IND_076,"Tuesday, July 10, 2001",2001,7,India,IN,Odisha,OR,Balangir,BLN,,20.7,83.48,EMD,East,2
+IND_077,"Tuesday, July 10, 2001",2001,7,India,IN,Odisha,OR,Nayagarh,NYG,,20.12,85.11,EMD,East,2
+IND_078,"Tuesday, July 10, 2001",2001,7,India,IN,Odisha,OR,Baleswar,BLS,,21.49,86.91,EMD,East,2
+IND_079,"Tuesday, July 10, 2001",2001,7,India,IN,Odisha,OR,Bhadrak,BDK,,21.06,86.5,EMD,East,2
+IND_080,"Tuesday, July 10, 2001",2001,7,India,IN,Chhattisgarh,CT,Dhamatari,DMT,,20.71,81.55,EMD,Central,2
+IND_081,"Tuesday, July 10, 2001",2001,7,India,IN,Chhattisgarh,CT,Raipur,RPR,,21.26,81.57,EMD,Central,2
+IND_082,"Tuesday, July 10, 2001",2001,7,India,IN,Chhattisgarh,CT,Mahasamund,MSM,,21.11,82.09,EMD,Central,2
+IND_083,"Tuesday, July 10, 2001",2001,7,India,IN,Chhattisgarh,CT,Janjgir-Champa,JGC,,21.93,82.32,EMD,Central,2
+IND_084,"Tuesday, July 10, 2001",2001,7,India,IN,Chhattisgarh,CT,Raigarh,RGH,,21.9,83.35,EMD,Central,2
+IND_085,"Monday, July 16, 2001",2001,7,India,IN,Kerala,KL,Idukki,IDK,,9.87,76.93,EMD,South,0
+IND_086,"Monday, July 16, 2001",2001,7,India,IN,Kerala,KL,Kottayam,KTM,,9.59,76.89,EMD,South,0
+IND_087,"Monday, July 16, 2001",2001,7,India,IN,Kerala,KL,Pathanamthitta,PNM,,9.26,76.73,EMD,South,0
+IND_088,"Monday, July 16, 2001",2001,7,India,IN,Kerala,KL,Kollam,KLM,,8.89,76.61,EMD,South,0
+IND_089,"Monday, July 16, 2001",2001,7,India,IN,Kerala,KL,Alappuzha,APZ,,9.5,76.34,EMD,South,0
+IND_090,"Wednesday, August 15, 2001",2001,8,India,IN,Bihar,BR,Aurangabad,ABD,,24.76,84.38,EMD,East,2
+IND_091,"Wednesday, August 15, 2001",2001,8,India,IN,Bihar,BR,Bhojpur,BPR,,25.48,84.56,EMD,East,2
+IND_092,"Wednesday, August 15, 2001",2001,8,India,IN,Bihar,BR,Gopalganj,GPG,,26.48,84.43,EMD,East,2
+IND_093,"Wednesday, August 15, 2001",2001,8,India,IN,Bihar,BR,Jehanabad,JHB,,25.21,84.97,EMD,East,2
+IND_094,"Wednesday, August 15, 2001",2001,8,India,IN,Bihar,BR,Muzaffarpur,MZF,,26.12,85.38,EMD,East,2
+IND_095,"Wednesday, August 15, 2001",2001,8,India,IN,Bihar,BR,Nalanda,NLD,,25.2,85.27,EMD,East,2
+IND_096,"Wednesday, August 15, 2001",2001,8,India,IN,Bihar,BR,West Champaran,WCP,,27.08,83.76,EMD,East,2
+IND_097,"Wednesday, August 15, 2001",2001,8,India,IN,Bihar,BR,Patna,PTA,,25.61,85.06,EMD,East,2
+IND_098,"Wednesday, August 15, 2001",2001,8,India,IN,Bihar,BR,East Champaran (Motihari),ECM,,26.63,84.98,EMD,East,2
+IND_099,"Wednesday, August 15, 2001",2001,8,India,IN,Bihar,BR,Rohtas,RTS,,24.95,83.57,EMD,East,2
+IND_100,"Wednesday, August 15, 2001",2001,8,India,IN,Bihar,BR,Saran,SRN,,26.05,84.62,EMD,East,2
+IND_101,"Wednesday, August 15, 2001",2001,8,India,IN,Bihar,BR,Sitamarhi,SMH,,26.58,85.46,EMD,East,2
+IND_102,"Wednesday, August 15, 2001",2001,8,India,IN,Bihar,BR,Siwan,SWN,,26.22,84.39,EMD,East,2
+IND_103,"Wednesday, August 15, 2001",2001,8,India,IN,Bihar,BR,Vaishali,VSH,,25.74,85.02,EMD,East,2
+IND_104,"Friday, June 15, 2001",2001,6,India,IN,Maharashtra,MH,Thane,THN,,19.21,72.91,EMD,West,0
+IND_105,"Monday, August 20, 2001",2001,8,India,IN,Bihar,BR,Gopalganj,GPG,,26.48,84.43,EMD,East,2
+IND_106,"Monday, August 20, 2001",2001,8,India,IN,Bihar,BR,East Champaran (Motihari),ECM,,26.63,84.98,EMD,East,2
+IND_107,"Monday, August 20, 2001",2001,8,India,IN,Bihar,BR,West Champaran,WCP,,27.08,83.76,EMD,East,2
+IND_108,"Monday, August 20, 2001",2001,8,India,IN,Bihar,BR,Muzaffarpur,MZF,,26.12,85.38,EMD,East,2
+IND_109,"Monday, August 20, 2001",2001,8,India,IN,Bihar,BR,Vaishali,VSH,,25.74,85.02,EMD,East,2
+IND_110,"Monday, August 20, 2001",2001,8,India,IN,Bihar,BR,Saran,SRN,,26.05,84.62,EMD,East,2
+IND_111,"Monday, September 24, 2001",2001,9,India,IN,Bihar,BR,Saran,SRN,,26.05,84.62,EMD,East,2
+IND_112,"Monday, September 24, 2001",2001,9,India,IN,Bihar,BR,Gopalganj,GPG,,26.48,84.43,EMD,East,2
+IND_113,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Barpeta,BRP,,26.32,91.01,EMD,North East,1
+IND_114,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Bongaigaon,BGG,,26.49,90.53,EMD,North East,1
+IND_115,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Cachar,CCR,,24.75,92.51,EMD,North East,1
+IND_116,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Darrang,DRN,,26.44,92.05,EMD,North East,1
+IND_117,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Dhemaji,DMJ,,27.48,94.53,EMD,North East,1
+IND_118,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Dhubri,DHB,,26.02,89.97,EMD,North East,1
+IND_119,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Dibrugarh,DGH,,27.47,94.88,EMD,North East,1
+IND_120,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Goalpara,GLP,,26.17,90.62,EMD,North East,1
+IND_121,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Golaghat,GLG,,26.52,93.97,EMD,North East,1
+IND_122,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Jorhat,JHT,,26.75,94.2,EMD,North East,1
+IND_123,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Kamrup,KRP,,26.13,90.72,EMD,North East,1
+IND_124,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Karimganj,KMG,,24.87,92.36,EMD,North East,1
+IND_125,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Kokrajhar,KKJ,,26.4,90.27,EMD,North East,1
+IND_126,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Lakhimpur,LKM,,26.84,91.9,EMD,North East,1
+IND_127,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Morigaon,MRG,,26.25,92.33,EMD,North East,1
+IND_128,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Nagaon,NGN,,26.35,92.68,EMD,North East,1
+IND_129,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Nalbari,NLB,,26.45,91.44,EMD,North East,1
+IND_130,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Sivasagar,SVG,,26.98,94.64,EMD,North East,1
+IND_131,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Sonitpur,SNP,,26.67,92.86,EMD,North East,1
+IND_132,"Wednesday, August 28, 2002",2002,8,India,IN,Assam,AS,Tinsukia,TSK,,27.49,95.35,EMD,North East,1
+IND_133,"Wednesday, August 28, 2002",2002,8,India ,IN,Himachal Pradesh,HP,Lahaul & Spiti,LHS,,32.71,76.61,EMD,North,2
+IND_134,"Wednesday, August 28, 2002",2002,8,India,IN,Madhya Pradesh,MP,Balaghat,BGT,,21.82,80.19,EMD,Central,2
+IND_135,"Wednesday, August 28, 2002",2002,8,India,IN,Uttarakhand,UT,Tehri Garhwal,TGH,,30.45,78.36,EMD,North,2
+IND_136,"Wednesday, August 28, 2002",2002,8,India,IN,Telangana,TG,Khammam,KMM,,17.25,80.15,EMD,South,0
+IND_137,"Wednesday, August 28, 2002",2002,8,India,IN,Telangana,TG,Adilabad,ALD,,19.66,78.5,EMD,South,0
+IND_138,"Wednesday, August 28, 2002",2002,8,India,IN,Telangana,TG,Karimnagar,KMN,,18.44,79.13,EMD,South,0
+IND_139,"Wednesday, August 28, 2002",2002,8,India,IN,West Bengal,WB,Cooch Behar,CBR,,26.35,89.45,EMD,East,1
+IND_140,"Wednesday, August 28, 2002",2002,8,India,IN,West Bengal,WB,Jalpaiguri,JPG,,26.52,88.72,EMD,East,1
+IND_141,"Wednesday, August 28, 2002",2002,8,India,IN,West Bengal,WB,Darjeeling,DJL,,27.03,88.22,EMD,East,1
+IND_142,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Araria,ARR,,26.14,87.45,EMD,East,2
+IND_143,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Begusarai,BGS,,25.42,86.11,EMD,East,2
+IND_144,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Bhagalpur,BGP,,25.19,86.74,EMD,East,2
+IND_145,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Darbhanga,DBG,,26.16,85.91,EMD,East,2
+IND_146,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Gopalganj,GPG,,26.48,84.43,EMD,East,2
+IND_147,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Khagaria,KGR,,25.51,86.48,EMD,East,2
+IND_148,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Katihar,KHR,,25.55,87.56,EMD,East,2
+IND_149,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Kishanganj,KGJ,,26.09,87.93,EMD,East,1
+IND_150,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Madhepura,MDP,,25.92,86.79,EMD,East,2
+IND_151,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Madhubani,MDB,,26.35,86.03,EMD,East,2
+IND_152,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Muzaffarpur,MZF,,26.12,85.38,EMD,East,2
+IND_153,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Nalanda,NLD,,25.2,85.27,EMD,East,2
+IND_154,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,West Champaran,WCP,,27.08,83.76,EMD,East,2
+IND_155,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Patna,PTA,,25.61,85.06,EMD,East,2
+IND_156,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,East Champaran (Motihari),ECM,,26.63,84.98,EMD,East,2
+IND_157,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Purnea,PNA,,25.77,87.45,EMD,East,2
+IND_158,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Saharsa,SHS,,25.89,86.62,EMD,East,2
+IND_159,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Samastipur,SMT,,25.85,85.78,EMD,East,2
+IND_160,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Saran,SRN,,26.05,84.62,EMD,East,2
+IND_161,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Sheikhpura,SKP,,25.14,85.85,EMD,East,2
+IND_162,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Sheohar,SHR,,26.51,85.29,EMD,East,2
+IND_163,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Sitamarhi,SMH,,26.58,85.46,EMD,East,2
+IND_164,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Siwan,SWN,,26.22,84.39,EMD,East,2
+IND_165,"Wednesday, August 28, 2002",2002,8,India,IN,Bihar,BR,Supaul,SPL,,26.12,86.59,EMD,East,2
+IND_166,"Tuesday, August 13, 2002",2002,8,India,IN,Uttarakhand,UT,Tehri Garhwal,TGH,,30.45,78.36,EMD,North,2
+IND_167,"Tuesday, August 20, 2002",2002,8,India,IN,Madhya Pradesh,MP,Balaghat,BGT,,21.82,80.19,EMD,Central,2
+IND_168,"Friday, September 6, 2002",2002,9,India,IN,Gujarat,GJ,Bharuch,BHR,,21.71,73.0,EMD,West,0
+IND_169,"Friday, September 6, 2002",2002,9,India,IN,Maharashtra,MH,Nashik,NSH,,19.99,73.8,EMD,West,0
+IND_170,"Friday, September 6, 2002",2002,9,India,IN,Maharashtra,MH,Jalgaon,JLG,,20.99,75.54,EMD,West,0
+IND_171,"Wednesday, October 16, 2002",2002,10,India,IN,Kerala,KL,Kannur,KNU,,11.87,75.37,EMD,South,0
+IND_172,"Wednesday, October 16, 2002",2002,10,India,IN,Kerala,KL,Kasaragod,KSG,,12.5,74.99,EMD,South,0
+IND_173,"Wednesday, October 16, 2002",2002,10,India,IN,Kerala,KL,Kozhikode,KZK,,11.26,75.78,EMD,South,0
+IND_174,"Wednesday, October 16, 2002",2002,10,India,IN,Kerala,KL,Malappuram,MLP,,11.06,76.02,EMD,South,0
+IND_175,"Wednesday, October 16, 2002",2002,10,India,IN,Kerala,KL,Thiruvananthapuram,TVP,,8.52,76.94,EMD,South,0
+IND_176,"Tuesday, October 1, 2002",2002,10,India,IN,Tamil Nadu,TN,Chennai,CHN,,13.06,80.13,EMD,South,0
+IND_177,"Tuesday, October 1, 2002",2002,10,India,IN,Tamil Nadu,TN,Coimbatore,CMB,,11.01,76.92,EMD,South,0
+IND_178,"Tuesday, October 1, 2002",2002,10,India,IN,Tamil Nadu,TN,Cuddalore,CLR,,11.76,79.77,EMD,South,0
+IND_179,"Monday, September 1, 2003",2003,9,India,IN,Gujarat,GJ,Kachchh,KCH,"Khavda, Banni, Nakhatrana",23.33,69.91,EMD,West,0
+IND_180,"Monday, September 1, 2003",2003,9,India,IN,Gujarat,GJ,Kachchh,KCH,Lakhpat village,23.33,69.91,EMD,West,0
+IND_181,"Thursday, August 7, 2003",2003,8,India,IN,Himachal Pradesh,HP,Kullu,KLU,Solang village,31.95,77.09,EMD,North,2
+IND_182,"Wednesday, July 16, 2003",2003,7,India,IN,Himachal Pradesh,HP,Kullu,KLU,,31.95,77.09,EMD,North,2
+IND_183,"Monday, October 20, 2003",2003,10,India,IN,Odisha,OR,Cuttack,CTK,,20.46,85.88,EMD,East,2
+IND_184,"Monday, October 20, 2003",2003,10,India,IN,Odisha,OR,Jagatsinghpur,JSH,,20.26,86.17,EMD,East,2
+IND_185,"Monday, October 20, 2003",2003,10,India,IN,Odisha,OR,Kendrapara,KDR,,20.5,86.42,EMD,East,2
+IND_186,"Monday, October 20, 2003",2003,10,India,IN,Odisha,OR,Jajpur,JJP,,20.84,86.33,EMD,East,2
+IND_187,"Monday, October 20, 2003",2003,10,India,IN,Odisha,OR,Puri,PRI,,19.81,85.8,EMD,East,2
+IND_188,"Monday, October 20, 2003",2003,10,India,IN,Odisha,OR,Balangir,BLN,,20.7,83.48,EMD,East,2
+IND_189,"Monday, October 20, 2003",2003,10,India,IN,Odisha,OR,Sonepur,SPR,,20.84,83.9,EMD,East,2
+IND_190,"Monday, October 20, 2003",2003,10,India,IN,Odisha,OR,Kalahandi,KLH,,20.13,85.07,EMD,East,2
+IND_191,"Monday, October 20, 2003",2003,10,India,IN,Odisha,OR,Rayagada,RYG,,19.17,83.42,EMD,East,2
+IND_192,"Monday, October 20, 2003",2003,10,India,IN,Odisha,OR,Gajapati,GJP,,19.19,84.19,EMD,East,2
+IND_193,"Monday, October 20, 2003",2003,10,India,IN,Odisha,OR,Bargarh,BRG,,21.35,83.63,EMD,East,2
+IND_194,"Monday, October 20, 2003",2003,10,India,IN,Odisha,OR,Koraput,KPT,,18.81,82.71,EMD,East,0
+IND_195,"Monday, October 20, 2003",2003,10,India,IN,Odisha,OR,Nayagarh,NYG,,20.12,85.11,EMD,East,2
+IND_196,"Monday, October 20, 2003",2003,10,India,IN,Odisha,OR,Ganjam,GNM,,19.39,85.05,EMD,East,2
+IND_197,"Monday, October 20, 2003",2003,10,India,IN,Odisha,OR,Angul,AGL,,20.85,85.13,EMD,East,2
+IND_198,"Wednesday, April 14, 2004",2004,4,India,IN,Manipur,MN,Bishnupur,BSN,"Leimapokpam, Thiyam, Lourembam,",24.63,93.76,EMD,North East,1
+IND_199,"Wednesday, April 14, 2004",2004,4,India,IN,Manipur,MN,Imphal West,IPW,"Na-Orem, Pukhrambam, Sanjenbam , Nambol Laitonjam villages",24.78,93.89,EMD,North East,1
+IND_200,"Monday, October 18, 2004",2004,10,India,IN,Assam,AS,Goalpara,GLP,,26.17,90.62,EMD,North East,1
+IND_201,"Friday, June 11, 2004",2004,6,India,IN,Kerala,KL,Wayanad,WYN,,11.75,75.84,EMD,South,0
+IND_202,"Friday, June 11, 2004",2004,6,India,IN,Kerala,KL,Kozhikode,KZK,,11.26,75.78,EMD,South,0
+IND_203,"Friday, June 11, 2004",2004,6,India,IN,Kerala,KL,Kannur,KNU,,11.87,75.37,EMD,South,0
+IND_204,"Friday, June 11, 2004",2004,6,India,IN,Kerala,KL,Kasaragod,KSG,,12.5,74.99,EMD,South,0
+IND_205,"Wednesday, April 14, 2004",2004,4,India,IN,Manipur,MN,Thoubal,THB,,24.64,94.01,EMD,North East,1
+IND_206,"Sunday, August 15, 2004",2004,8,India,IN,Bihar,BR,Darbhanga,DBG,,26.16,85.91,EMD,East,2
+IND_207,"Sunday, August 15, 2004",2004,8,India,IN,Bihar,BR,Madhubani,MDB,,26.35,86.03,EMD,East,2
+IND_208,"Sunday, August 15, 2004",2004,8,India,IN,Bihar,BR,Sitamarhi,SMH,,26.58,85.46,EMD,East,2
+IND_209,"Sunday, August 15, 2004",2004,8,India,IN,Bihar,BR,Banka,BKA,,24.89,86.91,EMD,East,2
+IND_210,"Sunday, August 15, 2004",2004,8,India,IN,Bihar,BR,Bhagalpur,BGP,,25.19,86.74,EMD,East,2
+IND_211,"Sunday, August 15, 2004",2004,8,India,IN,Bihar,BR,Muzaffarpur,MZF,,26.12,85.38,EMD,East,2
+IND_212,"Sunday, August 15, 2004",2004,8,India,IN,Bihar,BR,Sheohar,SHR,,26.51,85.29,EMD,East,2
+IND_213,"Sunday, August 15, 2004",2004,8,India,IN,Assam,AS,Kamrup,KRP,,26.13,90.72,EMD,North East,1
+IND_214,"Sunday, August 15, 2004",2004,8,India,IN,Assam,AS,Nalbari,NLB,,26.45,91.44,EMD,North East,1
+IND_215,"Sunday, August 15, 2004",2004,8,India,IN,Assam,AS,Darrang,DRN,,26.44,92.05,EMD,North East,1
+IND_216,"Sunday, August 15, 2004",2004,8,India,IN,Assam,AS,Sonitpur,SNP,,26.67,92.86,EMD,North East,1
+IND_217,"Sunday, August 15, 2004",2004,8,India,IN,Assam,AS,Dhemaji,DMJ,,26.67,92.86,EMD,North East,1
+IND_218,"Sunday, August 15, 2004",2004,8,India,IN,Assam,AS,Lakhimpur,LKM,,26.84,91.9,EMD,North East,1
+IND_219,"Sunday, August 15, 2004",2004,8,India,IN,Tripura,TR,South Tripura,STR,,23.19,91.38,EMD,North East,1
+IND_220,"Sunday, August 15, 2004",2004,8,India,IN,Tripura,TR,West Tripura,WTP,,23.92,91.25,EMD,North East,1
+IND_221,"Thursday, July 28, 2005",2005,7,India,IN,Arunachal Pradesh,AR,Dibang Valley,DVL,Anini village,28.85,95.27,EMD,North East,1
+IND_222,"Wednesday, June 29, 2005",2005,6,India,IN,Himachal Pradesh,HP,Kinnaur,KNR,"Sangla, Kalpa, Yangthang, Sumdo, Khab, Karcham, Leo, Akpa, Kharo villages",31.63,78.12,EMD,North,2
+IND_223,"Thursday, July 28, 2005",2005,7,India,IN,Arunachal Pradesh,AP,East Kameng,EKG,Seppa village,27.56,92.56,EMD,North East,1
+IND_224,"Thursday, July 28, 2005",2005,7,India,IN,Arunachal Pradesh,AR,Upper Siang,UPS,Yingkiong village,28.62,95.01,EMD,North East,1
+IND_225,"Sunday, August 28, 2005",2005,8,India,IN,Uttar Pradesh,UP,Azamgarh,AZM,,26.07,83.19,EMD,North,2
+IND_226,"Friday, May 27, 2005",2005,5,India,IN,Nagaland,NL,Mokokchung,MKC,,26.67,92.86,EMD,North East,1
+IND_227,"Thursday, July 28, 2005",2005,7,India,IN,West Bengal,WB,Birbhum,BRB,,24.06,87.23,EMD,East,2
+IND_228,"Thursday, July 28, 2005",2005,7,India,IN,Bihar,BR,Madhubani,MDB,,26.35,86.03,EMD,East,2
+IND_229,"Thursday, July 28, 2005",2005,7,India,IN,Bihar,BR,Darbhanga,DBG,,26.16,85.91,EMD,East,2
+IND_230,"Thursday, July 28, 2005",2005,7,India,IN,Bihar,BR,Muzaffarpur,MZF,,26.12,85.38,EMD,East,2
+IND_231,"Thursday, July 28, 2005",2005,7,India,IN,Uttarakhand,UT,Nainital,NNT,,29.39,79.45,EMD,North,2
+IND_232,"Thursday, July 28, 2005",2005,7,India,IN,Uttarakhand,UT,Haridwar,HRD,,29.93,78.11,EMD,North,2
+IND_233,"Thursday, July 28, 2005",2005,7,India,IN,Uttarakhand,UT,Dehradun,DHD,,30.33,77.95,EMD,North,2
+IND_234,"Thursday, July 28, 2005",2005,7,India,IN,Uttarakhand,UT,Uttarkashi,UTK,,30.73,78.43,EMD,North,2
+IND_235,"Thursday, July 28, 2005",2005,7,India,IN,Assam,AS,Dibrugarh,DGH,,27.47,94.88,EMD,North East,1
+IND_236,"Thursday, July 28, 2005",2005,7,India,IN,Assam,AS,Sonitpur,SNP,,26.67,92.86,EMD,North East,1
+IND_237,"Thursday, July 28, 2005",2005,7,India,IN,Assam,AS,Sivasagar,SVG,,26.67,92.86,EMD,North East,1
+IND_238,"Thursday, July 28, 2005",2005,7,India,IN,Assam,AS,Dhemaji,DMJ,,26.67,92.86,EMD,North East,1
+IND_239,"Thursday, July 28, 2005",2005,7,India,IN,Assam,AS,Tinsukia,TSK,,27.49,95.35,EMD,North East,1
+IND_240,"Thursday, July 28, 2005",2005,7,India,IN,Assam,AS,Karimganj,KMG,,26.67,92.86,EMD,North East,1
+IND_241,"Thursday, July 28, 2005",2005,7,India,IN,Assam,AS,Lakhimpur,LKM,,26.84,91.9,EMD,North East,1
+IND_242,"Thursday, July 28, 2005",2005,7,India,IN,Assam,AS,Jorhat,JHT,,26.67,92.86,EMD,North East,1
+IND_243,"Thursday, July 28, 2005",2005,7,India,IN,Assam,AS,Morigaon,MRG,,26.25,92.33,EMD,North East,1
+IND_244,"Thursday, July 28, 2005",2005,7,India,IN,Assam,AS,Dhubri,DHB,,26.02,89.97,EMD,North East,1
+IND_245,"Thursday, July 28, 2005",2005,7,India,IN,Assam,AS,Goalpara,GLP,,26.17,90.62,EMD,North East,1
+IND_246,"Thursday, July 28, 2005",2005,7,India,IN,Assam,AS,Barpeta,BRP,,26.32,91.01,EMD,North East,1
+IND_247,"Thursday, July 28, 2005",2005,7,India,IN,Uttar Pradesh,UP,Bahraich,BHH,,27.58,81.6,EMD,North,2
+IND_248,"Thursday, July 28, 2005",2005,7,India,IN,Uttar Pradesh,UP,Shravasti,SVS,,27.51,82.04,EMD,North,2
+IND_249,"Thursday, July 28, 2005",2005,7,India,IN,Uttar Pradesh,UP,Banda,BDA,,25.47,80.32,EMD,North,2
+IND_250,"Thursday, July 28, 2005",2005,7,India,IN,Uttar Pradesh,UP,Ballia,BLA,,25.88,83.89,EMD,North,2
+IND_251,"Thursday, July 28, 2005",2005,7,India,IN,Uttar Pradesh,UP,Lakhimpur Kheri,LKH,,27.94,80.76,EMD,North,2
+IND_252,"Thursday, July 28, 2005",2005,7,India,IN,Uttar Pradesh,UP,Kanpur Nagar,KPN,,26.44,80.32,EMD,North,2
+IND_253,"Thursday, July 28, 2005",2005,7,India,IN,Uttar Pradesh,UP,Varanasi,VRN,,25.36,83.01,EMD,North,2
+IND_254,"Thursday, July 28, 2005",2005,7,India,IN,Uttar Pradesh,UP,Mainpuri,MNP,,27.23,79.03,EMD,North,2
+IND_255,"Saturday, July 9, 2005",2005,7,India,IN,Maharashtra,MH,Yavatmal,YTM,,20.39,78.08,EMD,West,0
+IND_256,"Wednesday, June 29, 2005",2005,6,India,IN,Himachal Pradesh,HP,Kullu,KLU,,31.95,77.09,EMD,North,2
+IND_257,"Wednesday, June 29, 2005",2005,6,India,IN,Himachal Pradesh,HP,Bilaspur,BPH,,31.34,76.75,EMD,North,2
+IND_258,"Wednesday, June 29, 2005",2005,6,India,IN,Himachal Pradesh,HP,Mandi,MND,,31.64,76.56,EMD,North,2
+IND_259,"Wednesday, June 29, 2005",2005,6,India,IN,Himachal Pradesh,HP,Shimla,SHM,,31.08,77.12,EMD,North,2
+IND_260,"Tuesday, September 20, 2005",2005,9,India,IN,Chhattisgarh,CT,Rajnandgaon,RNG,,21.1,81.01,EMD,Central,2
+IND_261,"Tuesday, September 20, 2005",2005,9,India,IN,Chhattisgarh,CT,Durg,DRG,,21.19,81.25,EMD,Central,2
+IND_262,"Tuesday, September 20, 2005",2005,9,India,IN,Odisha,OR,Baleswar,BLS,,21.49,86.91,EMD,East,2
+IND_263,"Tuesday, September 20, 2005",2005,9,India,IN,Odisha,OR,Bhadrak,BDK,,21.06,86.5,EMD,East,2
+IND_264,"Tuesday, September 20, 2005",2005,9,India,IN,Odisha,OR,Jajpur,JJP,,20.84,86.33,EMD,East,2
+IND_265,"Tuesday, September 20, 2005",2005,9,India,IN,Maharashtra,MH,Bhandara,BHN,,21.18,79.62,EMD,West,2
+IND_266,"Tuesday, September 20, 2005",2005,9,India,IN,Maharashtra,MH,Gondia,GIA,,21.47,80.15,EMD,West,2
+IND_267,"Tuesday, September 20, 2005",2005,9,India,IN,Maharashtra,MH,Nagpur,NGP,,21.16,79.0,EMD,West,0
+IND_268,"Tuesday, September 20, 2005",2005,9,India,IN,Madhya Pradesh,MP,Balaghat,BGT,,21.82,80.19,EMD,Central,2
+IND_269,"Tuesday, September 20, 2005",2005,9,India,IN,Madhya Pradesh,MP,Katni,KTN,,23.83,80.39,EMD,Central,2
+IND_270,"Tuesday, September 20, 2005",2005,9,India,IN,Madhya Pradesh,MP,Jabalpur,JBP,,23.18,79.96,EMD,Central,2
+IND_271,"Tuesday, September 20, 2005",2005,9,India,IN,Madhya Pradesh,MP,Seoni,SNI,,22.09,79.55,EMD,Central,2
+IND_272,"Tuesday, October 11, 2005",2005,10,India,IN,Gujarat,GJ,Surat,SRT,,21.17,72.83,EMD,West,0
+IND_273,"Tuesday, October 11, 2005",2005,10,India,IN,Gujarat,GJ,Vadodara,VDD,,22.29,73.21,EMD,West,0
+IND_274,"Tuesday, October 11, 2005",2005,10,India,IN,Gujarat,GJ,Bhavnagar,BVN,,21.76,72.15,EMD,West,0
+IND_275,"Tuesday, October 11, 2005",2005,10,India,IN,Gujarat,GJ,Panchmahals,PMH,,22.7,73.43,EMD,West,0
+IND_276,"Tuesday, October 11, 2005",2005,10,India,IN,Gujarat,GJ,Narmada,NMD,,21.69,73.46,EMD,West,0
+IND_277,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Surat,SRT,,21.17,72.83,EMD,West,0
+IND_278,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Valsad,VLS,,20.6,72.93,EMD,West,0
+IND_279,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Navsari,NVS,,20.95,72.95,EMD,West,0
+IND_280,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Bharuch,BHR,,21.71,73.0,EMD,West,0
+IND_281,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Vadodara,VDD,,22.29,73.21,EMD,West,0
+IND_282,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Surendranagar,SDN,,22.73,71.64,EMD,West,0
+IND_283,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Dang,DNG,,20.82,73.5,EMD,West,0
+IND_284,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Ahmedabad,AMD,,23.02,72.57,EMD,West,0
+IND_285,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Anand,AND,,22.54,72.92,EMD,West,0
+IND_286,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Kheda,KHD,,22.48,70.07,EMD,West,0
+IND_287,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Amreli,AMR,,21.61,71.19,EMD,West,0
+IND_288,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Bhavnagar,BVN,,21.76,72.15,EMD,West,0
+IND_289,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Junagadh,JNG,,21.52,70.46,EMD,West,0
+IND_290,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Rajkot,RJK,,22.3,70.81,EMD,West,0
+IND_291,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Narmada,NMD,,21.69,73.46,EMD,West,0
+IND_292,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Jamnagar,JMN,,22.48,70.07,EMD,West,0
+IND_293,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Gandhinagar,GDN,,23.22,72.64,EMD,West,0
+IND_294,"Friday, July 15, 2005",2005,7,India,IN,Gujarat,GJ,Sabarkantha,SBK,,23.85,72.99,EMD,West,0
+IND_295,"Friday, July 15, 2005",2005,7,India,IN,Madhya Pradesh,MP,Ashoknagar,AKN,,24.57,77.71,EMD,Central,2
+IND_296,"Friday, July 15, 2005",2005,7,India,IN,Madhya Pradesh,MP,Chhatarpur,CTR,,28.5,77.18,EMD,Central,2
+IND_297,"Friday, July 15, 2005",2005,7,India,IN,Madhya Pradesh,MP,Damoh,DMH,,23.82,79.46,EMD,Central,2
+IND_298,"Friday, July 15, 2005",2005,7,India,IN,Madhya Pradesh,MP,Jabalpur,JBP,,23.18,79.96,EMD,Central,2
+IND_299,"Friday, July 15, 2005",2005,7,India,IN,Madhya Pradesh,MP,Katni,KTN,,23.83,80.39,EMD,Central,2
+IND_300,"Friday, July 15, 2005",2005,7,India,IN,Madhya Pradesh,MP,Narsinghpur,NSP,,22.95,79.2,EMD,Central,2
+IND_301,"Friday, July 15, 2005",2005,7,India,IN,Madhya Pradesh,MP,Panna,PAN,,24.72,80.19,EMD,Central,2
+IND_302,"Friday, July 15, 2005",2005,7,India,IN,Madhya Pradesh,MP,Rewa,RWA,,24.54,81.3,EMD,Central,2
+IND_303,"Friday, July 15, 2005",2005,7,India,IN,Madhya Pradesh,MP,Sagar,SGR,,23.84,78.75,EMD,Central,2
+IND_304,"Friday, July 15, 2005",2005,7,India,IN,Madhya Pradesh,MP,Satna,STN,,24.57,80.83,EMD,Central,2
+IND_305,"Sunday, July 10, 2005",2005,7,India,IN,Telangana,TG,Adilabad,ALD,,19.66,78.5,EMD,South,0
+IND_306,"Sunday, July 10, 2005",2005,7,India,IN,Telangana,TG,Hyderabad,HDR,,17.41,78.24,EMD,South,0
+IND_307,"Sunday, July 10, 2005",2005,7,India,IN,Telangana,TG,Karimnagar,KMN,,18.44,79.13,EMD,South,0
+IND_308,"Sunday, July 10, 2005",2005,7,India,IN,Telangana,TG,Khammam,KMM,,17.25,80.15,EMD,South,0
+IND_309,"Sunday, July 10, 2005",2005,7,India,IN,Telangana,TG,Mahabubnagar,MHB,,16.75,77.98,EMD,South,0
+IND_310,"Sunday, July 10, 2005",2005,7,India,IN,Telangana,TG,Medak,MDK,,18.05,78.25,EMD,South,0
+IND_311,"Sunday, July 10, 2005",2005,7,India,IN,Telangana,TG,Nalgonda,NAL,,17.06,79.24,EMD,South,0
+IND_312,"Sunday, July 10, 2005",2005,7,India,IN,Telangana,TG,Nizamabad,NZM,,18.68,78.06,EMD,South,0
+IND_313,"Sunday, July 10, 2005",2005,7,India,IN,Telangana,TG,Rangareddy,RGR,,17.13,78.05,EMD,South,0
+IND_314,"Sunday, July 10, 2005",2005,7,India,IN,Telangana,TG,Warangal,WRG,,17.95,79.59,EMD,South,0
+IND_315,"Sunday, July 10, 2005",2005,7,India,IN,Andhra Pradesh,AP,East Godavari,EGD,,17.37,81.08,EMD,South,0
+IND_316,"Sunday, July 10, 2005",2005,7,India,IN,Andhra Pradesh,AP,Guntur,GTR,,16.31,80.44,EMD,South,0
+IND_317,"Sunday, July 10, 2005",2005,7,India,IN,Andhra Pradesh,AP,Krishna,KSH,,16.42,80.11,EMD,South,0
+IND_318,"Sunday, July 10, 2005",2005,7,India,IN,Andhra Pradesh,AP,Potti Sriramulu Nellore,PSN,,14.29,79.01,EMD,South,0
+IND_319,"Sunday, July 10, 2005",2005,7,India,IN,Andhra Pradesh,AP,Prakasam,PKS,,15.64,78.95,EMD,South,0
+IND_320,"Sunday, July 10, 2005",2005,7,India,IN,Andhra Pradesh,AP,Srikakulam,SKM,,18.3,83.85,EMD,South,0
+IND_321,"Sunday, July 10, 2005",2005,7,India,IN,Andhra Pradesh,AP,Visakhapatnam,VSK,,17.74,83.22,EMD,South,0
+IND_322,"Sunday, July 10, 2005",2005,7,India,IN,Andhra Pradesh,AP,Vizianagaram,VZN,,18.11,83.4,EMD,South,0
+IND_323,"Sunday, July 10, 2005",2005,7,India,IN,Andhra Pradesh,AP,West Godavari,WGD,,16.92,81.34,EMD,South,0
+IND_324,"Monday, October 24, 2005",2005,10,India,IN,West Bengal,WB,Purba Medinipur,PBM,,22.05,87.29,EMD,East,2
+IND_325,"Monday, October 24, 2005",2005,10,India,IN,West Bengal,WB,South 24 Parganas,SPG,,22.07,88.89,EMD,East,1
+IND_326,"Monday, October 24, 2005",2005,10,India,IN,West Bengal,WB,Purba Bardhaman,PBB,,23.23,87.86,EMD,East,2
+IND_327,"Monday, October 24, 2005",2005,10,India,IN,West Bengal,WB,Nadia,NIA,,23.48,87.81,EMD,East,2
+IND_328,"Monday, October 24, 2005",2005,10,India,IN,Odisha,OR,Baleswar,BLS,,21.49,86.91,EMD,East,2
+IND_329,"Sunday, November 13, 2005",2005,11,India,IN,Tamil Nadu,TN,Salem,SLM,,11.65,78.05,EMD,South,0
+IND_330,"Sunday, November 13, 2005",2005,11,India,IN,Tamil Nadu,TN,Namakkal,NMK,,11.22,78.17,EMD,South,0
+IND_331,"Sunday, November 13, 2005",2005,11,India,IN,Tamil Nadu,TN,Karur,KRR,,10.97,78.03,EMD,South,0
+IND_332,"Sunday, November 13, 2005",2005,11,India,IN,Tamil Nadu,TN,Erode,ERD,,11.35,77.68,EMD,South,0
+IND_333,"Sunday, November 13, 2005",2005,11,India,IN,Tamil Nadu,TN,Tiruchirappalli,TCP,,10.8,78.67,EMD,South,0
+IND_334,"Sunday, November 13, 2005",2005,11,India,IN,Tamil Nadu,TN,Vellore,VLR,,12.92,79.12,EMD,South,0
+IND_335,"Sunday, November 13, 2005",2005,11,India,IN,Tamil Nadu,TN,Perambalur,PMB,,11.29,78.9,EMD,South,0
+IND_336,"Sunday, November 13, 2005",2005,11,India,IN,Tamil Nadu,TN,Nagapattinam,NPT,,10.78,79.83,EMD,South,0
+IND_337,"Sunday, November 13, 2005",2005,11,India,IN,Tamil Nadu,TN,Kanyakumari,KNK,,8.09,77.54,EMD,South,0
+IND_338,"Sunday, November 13, 2005",2005,11,India,IN,Tamil Nadu,TN,Dharamapuri,DRP,,12.13,78.13,EMD,South,0
+IND_339,"Sunday, November 13, 2005",2005,11,India,IN,Tamil Nadu,TN,Madurai,MDR,,9.92,78.05,EMD,South,0
+IND_340,"Sunday, November 13, 2005",2005,11,India,IN,Tamil Nadu,TN,Villupuram,VLP,,11.95,79.5,EMD,South,0
+IND_341,"Sunday, November 13, 2005",2005,11,India,IN,Tamil Nadu,TN,Chennai,CHN,,13.06,80.13,EMD,South,0
+IND_342,"Sunday, November 13, 2005",2005,11,India,IN,Tamil Nadu,TN,Cuddalore,CLR,,11.76,79.77,EMD,South,0
+IND_343,"Sunday, November 13, 2005",2005,11,India,IN,Puducherry,PY,Karaikal,KKL,,10.92,79.82,EMD,East,0
+IND_344,"Sunday, November 13, 2005",2005,11,India,IN,Karnataka,KA,Bengaluru Rural,BNR,,13.18,77.24,EMD,South,0
+IND_345,"Sunday, November 13, 2005",2005,11,India,IN,Karnataka,KA,Bengaluru Urban,BNU,,12.95,77.48,EMD,South,0
+IND_346,"Sunday, November 13, 2005",2005,11,India,IN,Karnataka,KA,Mysuru,MYS,,12.3,76.64,EMD,South,0
+IND_347,"Sunday, November 13, 2005",2005,11,India,IN,Andhra Pradesh,AP,Potti Sriramulu Nellore,PSN,,14.29,79.01,EMD,South,0
+IND_348,"Sunday, November 13, 2005",2005,11,India,IN,Andhra Pradesh,AP,Chittoor,CHT,,13.22,79.1,EMD,South,0
+IND_349,"Sunday, November 13, 2005",2005,11,India,IN,Andhra Pradesh,AP,Visakhapatnam,VSK,,17.74,83.22,EMD,South,0
+IND_350,"Sunday, November 13, 2005",2005,11,India,IN,Andhra Pradesh,AP,Srikakulam,SKM,,18.3,83.85,EMD,South,0
+IND_351,"Sunday, November 13, 2005",2005,11,India,IN,Andhra Pradesh,AP,Vizianagaram,VZN,,18.11,83.4,EMD,South,0
+IND_352,"Sunday, November 13, 2005",2005,11,India,IN,Andhra Pradesh,AP,Kadapa,KDP,,14.47,78.79,EMD,South,0
+IND_353,"Saturday, July 8, 2006",2006,7,India,IN,Odisha,OR,Gajapati,GJP,,19.19,84.19,EMD,East,2
+IND_354,"Saturday, July 8, 2006",2006,7,India,IN,Odisha,OR,Rayagada,RYG,,19.17,83.42,EMD,East,2
+IND_355,"Tuesday, April 18, 2006",2006,4,India,IN,Telangana,TG,Adilabad,ALD,,19.66,78.5,EMD,South,0
+IND_356,"Tuesday, April 18, 2006",2006,4,India,IN,Telangana,TG,Hyderabad,HDR,,17.41,78.24,EMD,South,0
+IND_357,"Tuesday, April 18, 2006",2006,4,India,IN,Telangana,TG,Karimnagar,KMN,,18.44,79.13,EMD,South,0
+IND_358,"Tuesday, April 18, 2006",2006,4,India,IN,Telangana,TG,Khammam,KMM,,17.25,80.15,EMD,South,0
+IND_359,"Tuesday, April 18, 2006",2006,4,India,IN,Telangana,TG,Mahabubnagar,MHB,,16.75,77.98,EMD,South,0
+IND_360,"Tuesday, April 18, 2006",2006,4,India,IN,Telangana,TG,Medak,MDK,,18.05,78.25,EMD,South,0
+IND_361,"Tuesday, April 18, 2006",2006,4,India,IN,Telangana,TG,Nalgonda,NAL,,17.06,79.24,EMD,South,0
+IND_362,"Tuesday, April 18, 2006",2006,4,India,IN,Telangana,TG,Nizamabad,NZM,,18.68,78.06,EMD,South,0
+IND_363,"Tuesday, April 18, 2006",2006,4,India,IN,Telangana,TG,Rangareddy,RGR,,17.13,78.05,EMD,South,0
+IND_364,"Tuesday, April 18, 2006",2006,4,India,IN,Telangana,TG,Warangal,WRG,,17.95,79.59,EMD,South,0
+IND_365,"Tuesday, April 18, 2006",2006,4,India,IN,Andhra Pradesh,AP,Srikakulam,SKM,,18.3,83.85,EMD,South,0
+IND_366,"Tuesday, April 18, 2006",2006,4,India,IN,Andhra Pradesh,AP,Krishna,KSH,,16.42,80.11,EMD,South,0
+IND_367,"Tuesday, June 27, 2006",2006,6,India,IN,Uttar Pradesh,UP,Ballia,BLA,,25.88,83.89,EMD,North,2
+IND_368,"Tuesday, June 27, 2006",2006,6,India,IN,Uttar Pradesh,UP,Chandauli,CDL,,25.26,83.25,EMD,North,2
+IND_369,"Friday, July 7, 2006",2006,7,India,IN,Gujarat,GJ,Navsari,NVS,,20.95,72.95,EMD,West,0
+IND_370,"Friday, July 7, 2006",2006,7,India,IN,Gujarat,GJ,Dang,DNG,,20.82,73.5,EMD,West,0
+IND_371,"Saturday, September 2, 2006",2006,9,India,IN,Rajasthan,RJ,Barmer,BRM,,25.76,71.36,EMD,North,0
+IND_372,"Saturday, September 2, 2006",2006,9,India,IN,Rajasthan,RJ,Jaisalmer,JSM,,26.9,70.85,EMD,North,2
+IND_373,"Saturday, September 2, 2006",2006,9,India,IN,Rajasthan,RJ,Kota,KTA,,25.21,75.87,EMD,North,2
+IND_374,"Saturday, September 2, 2006",2006,9,India,IN,Rajasthan,RJ,Udaipur,UPR,,24.61,73.63,EMD,North,0
+IND_375,"Monday, September 4, 2006",2006,9,India,IN,Uttar Pradesh,UP,Balrampur,BLM,,27.43,82.18,EMD,North,2
+IND_376,"Monday, September 4, 2006",2006,9,India,IN,Uttar Pradesh,UP,Bahraich,BHH,,27.58,81.6,EMD,North,2
+IND_377,"Monday, September 4, 2006",2006,9,India,IN,Uttar Pradesh,UP,Lakhimpur Kheri,LKH,,27.94,80.76,EMD,North,2
+IND_378,"Monday, September 4, 2006",2006,9,India,IN,Uttar Pradesh,UP,Shravasti,SVS,,27.51,82.04,EMD,North,2
+IND_379,"Monday, September 4, 2006",2006,9,India,IN,Uttar Pradesh,UP,Gonda,GND,,27.14,81.96,EMD,North,2
+IND_380,"Monday, September 4, 2006",2006,9,India,IN,Uttar Pradesh,UP,Barabanki,BBK,,26.94,81.19,EMD,North,2
+IND_381,"Friday, August 3, 2007",2007,8,India,IN,Tripura,TR,South Tripura,STR,Amarpur,23.19,91.38,EMD,North East,1
+IND_382,"Wednesday, July 4, 2007",2007,7,India,IN,Andhra Pradesh,AP,Ananthapuramu,ATP,Anantapur,14.66,77.57,EMD,South,0
+IND_383,"Sunday, October 7, 2007",2007,10,India,IN,Andhra Pradesh,AP,Ananthapuramu,ATP,Anantapur,14.66,77.57,EMD,South,0
+IND_384,"Friday, August 3, 2007",2007,8,India,IN,Tripura,TR,West Tripura,WTP,Sonamura,23.92,91.25,EMD,North East,1
+IND_385,"Friday, August 3, 2007",2007,8,India,IN,Tripura,TR,South Tripura,STR,Udaipur,23.19,91.38,EMD,North East,1
+IND_386,"Wednesday, July 4, 2007",2007,7,India,IN,Andhra Pradesh,AP,Kurnool,KNL,,15.83,78.04,EMD,South,0
+IND_387,"Wednesday, July 4, 2007",2007,7,India,IN,Telangana,TG,Mahabubnagar,MHB,,16.75,77.98,EMD,South,0
+IND_388,"Wednesday, July 4, 2007",2007,7,India,IN,Andhra Pradesh,AP,Guntur,GTR,,16.31,80.44,EMD,South,0
+IND_389,"Wednesday, July 4, 2007",2007,7,India,IN,Andhra Pradesh,AP,Prakasam,PKS,,15.64,78.95,EMD,South,0
+IND_390,"Wednesday, July 4, 2007",2007,7,India,IN,Andhra Pradesh,AP,East Godavari,EGD,,17.37,81.08,EMD,South,0
+IND_391,"Wednesday, July 4, 2007",2007,7,India,IN,Andhra Pradesh,AP,West Godavari,WGD,,16.92,81.34,EMD,South,0
+IND_392,"Wednesday, July 4, 2007",2007,7,India,IN,Andhra Pradesh,AP,Kadapa,KDP,,14.47,78.79,EMD,South,0
+IND_393,"Wednesday, July 4, 2007",2007,7,India,IN,Kerala,KL,Thrissur,THS,,10.51,76.14,EMD,South,0
+IND_394,"Wednesday, July 4, 2007",2007,7,India,IN,Karnataka,KA,Belagavi,BGV,,15.85,74.5,EMD,South,0
+IND_395,"Wednesday, July 4, 2007",2007,7,India,IN,Karnataka,KA,Vijayapura,VJP,,16.83,75.71,EMD,South,0
+IND_396,"Wednesday, July 4, 2007",2007,7,India ,IN,Karnataka,KA,Bagalkote,BGK,,16.17,75.66,EMD,South,0
+IND_397,"Wednesday, July 4, 2007",2007,7,India,IN,Karnataka,KA,Kodagu,KGU,,12.39,75.44,EMD,South,0
+IND_398,"Wednesday, July 4, 2007",2007,7,India,IN,Karnataka,KA,Hassan,HSN,,13.01,76.08,EMD,South,0
+IND_399,"Wednesday, July 4, 2007",2007,7,India,IN,Karnataka,KA,Mysuru,MYS,,12.3,76.64,EMD,South,0
+IND_400,"Wednesday, July 4, 2007",2007,7,India,IN,Maharashtra,MH,Mumbai,MMB,,19.12,72.8,EMD,West,0
+IND_401,"Wednesday, July 4, 2007",2007,7,India,IN,Maharashtra,MH,Pune,PNE,,18.51,73.87,EMD,West,0
+IND_402,"Wednesday, October 3, 2007",2007,10,India,IN,Odisha,OR,Baleswar,BLS,,21.49,86.91,EMD,East,2
+IND_403,"Wednesday, October 3, 2007",2007,10,India,IN,Odisha,OR,Kendrapara,KDR,,20.5,86.42,EMD,East,2
+IND_404,"Wednesday, October 3, 2007",2007,10,India,IN,Odisha,OR,Bhadrak,BDK,,21.06,86.5,EMD,East,2
+IND_405,"Wednesday, October 3, 2007",2007,10,India,IN,Odisha,OR,Jagatsinghpur,JSH,,20.26,86.17,EMD,East,2
+IND_406,"Wednesday, October 3, 2007",2007,10,India,IN,Odisha,OR,Jajpur,JJP,,20.84,86.33,EMD,East,2
+IND_407,"Wednesday, October 3, 2007",2007,10,India,IN,Odisha,OR,Mayurbhanj,MYB,,21.91,85.76,EMD,East,2
+IND_408,"Wednesday, October 3, 2007",2007,10,India,IN,Odisha,OR,Khordha,KRD,,20.18,85.67,EMD,East,2
+IND_409,"Wednesday, October 3, 2007",2007,10,India,IN,Odisha,OR,Cuttack,CTK,,20.46,85.88,EMD,East,2
+IND_410,"Wednesday, October 3, 2007",2007,10,India,IN,Odisha,OR,Puri,PRI,,19.81,85.8,EMD,East,2
+IND_411,"Wednesday, October 3, 2007",2007,10,India,IN,Odisha,OR,Kandhamal,KDM,,20.13,84.02,EMD,East,2
+IND_412,"Wednesday, October 3, 2007",2007,10,India,IN,West Bengal,WB,Kolkata,KOL,,22.57,88.36,EMD,East,1
+IND_413,"Wednesday, October 3, 2007",2007,10,India,IN,West Bengal,WB,South 24 Parganas,SPG,,22.07,88.89,EMD,East,1
+IND_414,"Wednesday, October 3, 2007",2007,10,India,IN,West Bengal,WB,Purba Medinipur,PBM,,22.05,87.29,EMD,East,2
+IND_415,"Wednesday, October 3, 2007",2007,10,India,IN,West Bengal,WB,Paschim Medinipur,PCM,,22.43,87.28,EMD,East,2
+IND_416,"Wednesday, October 3, 2007",2007,10,India,IN,West Bengal,WB,Hooghly,HGL,,22.89,88.38,EMD,East,1
+IND_417,"Tuesday, June 26, 2007",2007,6,India,IN,Assam,AS,Lakhimpur,LKM,,26.84,91.9,EMD,North East,1
+IND_418,"Tuesday, June 26, 2007",2007,6,India,IN,Assam,AS,Dhemaji,DMJ,,27.48,94.53,EMD,North East,1
+IND_419,"Tuesday, June 26, 2007",2007,6,India,IN,Assam,AS,Cachar,CCR,,24.75,92.51,EMD,North East,1
+IND_420,"Tuesday, June 26, 2007",2007,6,India,IN,Assam,AS,Karimganj,KMG,,24.87,92.36,EMD,North East,1
+IND_421,"Tuesday, June 26, 2007",2007,6,India,IN,Assam,AS,Hailakandi,HLK,,24.68,92.52,EMD,North East,1
+IND_422,"Tuesday, June 26, 2007",2007,6,India,IN,Assam,AS,Darrang,DRN,,26.44,92.05,EMD,North East,1
+IND_423,"Tuesday, June 26, 2007",2007,6,India,IN,Assam,AS,Dibrugarh,DGH,,27.47,94.88,EMD,North East,1
+IND_424,"Friday, July 13, 2007",2007,7,India,IN,Gujarat,GJ,Junagadh,JNG,,21.52,70.46,EMD,West,0
+IND_425,"Friday, July 13, 2007",2007,7,India,IN,Gujarat,GJ,Amreli,AMR,,21.61,71.19,EMD,West,0
+IND_426,"Friday, July 13, 2007",2007,7,India,IN,Gujarat,GJ,Bhavnagar,BVN,,21.76,72.15,EMD,West,0
+IND_427,"Friday, July 13, 2007",2007,7,India,IN,Gujarat,GJ,Jamnagar,JMN,,22.48,70.07,EMD,West,0
+IND_428,"Friday, July 13, 2007",2007,7,India,IN,Gujarat,GJ,Porbandar,PBD,,21.64,69.63,EMD,West,0
+IND_429,"Friday, July 13, 2007",2007,7,India,IN,Gujarat,GJ,Rajkot,RJK,,22.3,70.81,EMD,West,0
+IND_430,"Friday, July 13, 2007",2007,7,India,IN,Gujarat,GJ,Surendranagar,SDN,,22.73,71.64,EMD,West,0
+IND_431,"Friday, July 6, 2007",2007,7,India,IN,Maharashtra,MH,Amravati,AMV,,20.9,77.69,EMD,West,0
+IND_432,"Friday, July 6, 2007",2007,7,India,IN,Maharashtra,MH,Mumbai,MMB,,19.12,72.8,EMD,West,0
+IND_433,"Friday, July 6, 2007",2007,7,India,IN,Maharashtra,MH,Mumbai Suburban,MBS,,19.16,72.78,EMD,West,0
+IND_434,"Friday, July 6, 2007",2007,7,India,IN,Maharashtra,MH,Raigad,RGD,,18.49,72.59,EMD,West,0
+IND_435,"Friday, July 6, 2007",2007,7,India,IN,Maharashtra,MH,Ratnagiri,RTG,,17.0,73.33,EMD,West,0
+IND_436,"Friday, July 6, 2007",2007,7,India,IN,Maharashtra,MH,Sindhudurg,SDD,,16.13,73.1,EMD,West,0
+IND_437,"Friday, July 6, 2007",2007,7,India,IN,Maharashtra,MH,Thane,THN,,19.21,72.91,EMD,West,0
+IND_438,"Friday, July 13, 2007",2007,7,India,IN,Chhattisgarh,CT,Raipur,RPR,,21.26,81.57,EMD,Central,2
+IND_439,"Friday, July 13, 2007",2007,7,India,IN,Chhattisgarh,CT,Bilaspur (CG),BSP,,22.08,82.13,EMD,Central,2
+IND_440,"Friday, July 13, 2007",2007,7,India,IN,Chhattisgarh,CT,Mahasamund,MSM,,21.11,82.09,EMD,Central,2
+IND_441,"Friday, July 13, 2007",2007,7,India,IN,Chhattisgarh,CT,Durg,DRG,,21.19,81.25,EMD,Central,2
+IND_442,"Sunday, October 7, 2007",2007,10,India,IN,Andhra Pradesh,AP,Kurnool,KNL,,15.83,78.04,EMD,South,0
+IND_443,"Sunday, October 7, 2007",2007,10,India,IN,Andhra Pradesh,AP,Kadapa,KDP,,14.47,78.79,EMD,South,0
+IND_444,"Sunday, October 7, 2007",2007,10,India,IN,Telangana,TG,Warangal,WRG,,17.95,79.59,EMD,South,0
+IND_445,"Sunday, October 7, 2007",2007,10,India,IN,Telangana,TG,Nalgonda,NAL,,17.06,79.24,EMD,South,0
+IND_446,"Sunday, October 7, 2007",2007,10,India,IN,Telangana,TG,Karimnagar,KMN,,18.44,79.13,EMD,South,0
+IND_447,"Sunday, October 7, 2007",2007,10,India,IN,Telangana,TG,Mahabubnagar,MHB,,16.75,77.98,EMD,South,0
+IND_448,"Sunday, October 7, 2007",2007,10,India,IN,Andhra Pradesh,AP,Potti Sriramulu Nellore,PSN,,14.29,79.01,EMD,South,0
+IND_449,"Sunday, October 7, 2007",2007,10,India,IN,Andhra Pradesh,AP,Krishna,KSH,,16.42,80.11,EMD,South,0
+IND_450,"Sunday, October 7, 2007",2007,10,India ,IN,Karnataka,KA,Gadag,GDG,,15.43,75.64,EMD,South,0
+IND_451,"Monday, August 27, 2007",2007,8,India,IN,Odisha,OR,Cuttack,CTK,,20.46,85.88,EMD,East,2
+IND_452,"Monday, August 27, 2007",2007,8,India,IN,Odisha,OR,Puri,PRI,,19.81,85.8,EMD,East,2
+IND_453,"Monday, August 27, 2007",2007,8,India,IN,Odisha,OR,Khordha,KRD,,20.18,85.67,EMD,East,2
+IND_454,"Monday, August 27, 2007",2007,8,India,IN,Odisha,OR,Jajpur,JJP,,20.84,86.33,EMD,East,2
+IND_455,"Monday, August 27, 2007",2007,8,India,IN,Odisha,OR,Jagatsinghpur,JSH,,20.26,86.17,EMD,East,2
+IND_456,"Thursday, December 4, 2008",2008,12,India,IN,Tamil Nadu,TN,Tirunelveli,TNV, Tirunelveli Kattabo,8.72,77.66,EMD,South,0
+IND_457,"Monday, July 21, 2008",2008,7,India,IN,Assam,AS,Sonitpur,SNP,,26.67,92.86,EMD,North East,1
+IND_458,"Monday, July 21, 2008",2008,7,India,IN,Assam,AS,Lakhimpur,LKM,,26.84,91.9,EMD,North East,1
+IND_459,"Monday, July 21, 2008",2008,7,India,IN,Assam,AS,Dhemaji,DMJ,,26.67,92.86,EMD,North East,1
+IND_460,"Monday, September 8, 2008",2008,9,India,IN,Bihar,BR,Muzaffarpur,MZF,,26.67,92.86,EMD,East,1
+IND_461,"Monday, September 8, 2008",2008,9,India,IN,Bihar,BR,Supaul,SPL,,26.12,86.59,EMD,East,2
+IND_462,"Monday, September 8, 2008",2008,9,India,IN,Bihar,BR,Patna,PTA,,25.61,85.06,EMD,East,2
+IND_463,"Monday, September 8, 2008",2008,9,India,IN,Bihar,BR,Katihar,KHR,,25.55,87.56,EMD,East,2
+IND_464,"Monday, September 8, 2008",2008,9,India,IN,Bihar,BR,Nalanda,NLD,,25.2,85.27,EMD,East,2
+IND_465,"Monday, September 8, 2008",2008,9,India,IN,Bihar,BR,Araria,ARR,,26.14,87.45,EMD,East,2
+IND_466,"Monday, September 8, 2008",2008,9,India,IN,Bihar,BR,West Champaran,WCP,,27.08,83.76,EMD,East,2
+IND_467,"Monday, September 8, 2008",2008,9,India,IN,Bihar,BR,Sheikhpura,SKP,,25.14,85.85,EMD,East,2
+IND_468,"Monday, September 8, 2008",2008,9,India,IN,Bihar,BR,Saharsa,SHS,,25.89,86.62,EMD,East,2
+IND_469,"Monday, September 8, 2008",2008,9,India,IN,Bihar,BR,Purnea,PNA,,25.77,87.45,EMD,East,2
+IND_470,"Monday, September 8, 2008",2008,9,India,IN,Bihar,BR,Saran,SRN,,26.05,84.62,EMD,East,2
+IND_471,"Monday, September 8, 2008",2008,9,India,IN,Bihar,BR,Begusarai,BGS,,25.42,86.11,EMD,East,2
+IND_472,"Monday, September 8, 2008",2008,9,India,IN,Bihar,BR,Bhagalpur,BGP,,25.19,86.74,EMD,East,2
+IND_473,"Monday, September 8, 2008",2008,9,India,IN,Bihar,BR,Madhepura,MDP,,25.92,86.79,EMD,East,2
+IND_474,"Monday, September 8, 2008",2008,9,India,IN,Bihar,BR,Vaishali,VSH,,25.74,85.02,EMD,East,2
+IND_475,"Monday, September 8, 2008",2008,9,India,IN,Bihar,BR,Khagaria,KGR,,25.51,86.48,EMD,East,2
+IND_476,"Thursday, December 4, 2008",2008,12,India,IN,Tamil Nadu,TN,Tiruvallur,TVL,,13.12,79.9,EMD,South,0
+IND_477,"Thursday, December 4, 2008",2008,12,India,IN,Tamil Nadu,TN,Thoothukudi,TTK,,8.78,78.08,EMD,South,0
+IND_478,"Thursday, December 4, 2008",2008,12,India,IN,Tamil Nadu,TN,Villupuram,VLP,,11.95,79.5,EMD,South,0
+IND_479,"Thursday, December 4, 2008",2008,12,India,IN,Tamil Nadu,TN,Ramanthapuram,RTP,,9.37,78.83,EMD,South,0
+IND_480,"Thursday, December 4, 2008",2008,12,India,IN,Tamil Nadu,TN,Pudukkottai,PDK,,10.38,78.78,EMD,South,0
+IND_481,"Thursday, December 4, 2008",2008,12,India,IN,Tamil Nadu,TN,Kanyakumari,KNK,,8.09,77.54,EMD,South,0
+IND_482,"Thursday, December 4, 2008",2008,12,India,IN,Tamil Nadu,TN,Nagapattinam,NPT,,10.78,79.83,EMD,South,0
+IND_483,"Thursday, December 4, 2008",2008,12,India,IN,Tamil Nadu,TN,Cuddalore,CLR,,11.76,79.77,EMD,South,0
+IND_484,"Thursday, December 4, 2008",2008,12,India,IN,Tamil Nadu,TN,Chennai,CHN,,13.06,80.13,EMD,South,0
+IND_485,"Thursday, December 4, 2008",2008,12,India,IN,Puducherry,PY,Karaikal,KKL,,10.92,79.82,EMD,East,0
+IND_486,"Thursday, September 11, 2008",2008,9,India,IN,Telangana,TG,Khammam,KMM,,17.25,80.15,EMD,South,0
+IND_487,"Thursday, September 11, 2008",2008,9,India,IN,Andhra Pradesh,AP,West Godavari,WGD,,16.92,81.34,EMD,South,0
+IND_488,"Thursday, September 11, 2008",2008,9,India,IN,Andhra Pradesh,AP,Krishna,KSH,,16.42,80.11,EMD,South,0
+IND_489,"Thursday, September 11, 2008",2008,9,India,IN,Andhra Pradesh,AP,Guntur,GTR,,16.31,80.44,EMD,South,0
+IND_490,"Friday, August 8, 2008",2008,8,India,IN,Uttar Pradesh,UP,Lakhimpur Kheri,LKH,,27.94,80.76,EMD,North,2
+IND_491,"Friday, August 8, 2008",2008,8,India,IN,Assam,AS,Lakhimpur,LKM,,26.84,91.9,EMD,North East,1
+IND_492,"Friday, August 8, 2008",2008,8,India,IN,Assam,AS,Jorhat,JHT,,26.75,94.2,EMD,North East,1
+IND_493,"Monday, October 12, 2009",2009,10,India,IN,Andhra Pradesh,AP,Ananthapuramu,ATP,Anantapur,14.66,77.57,EMD,South,0
+IND_494,"Monday, October 12, 2009",2009,10,India,IN,Karnataka,KA,Belagavi,BGV,Belgaum,15.85,74.5,EMD,South,0
+IND_495,"Sunday, November 8, 2009",2009,11,India,IN,Tamil Nadu,TN,The Niligiris,NLG,Coonoor,11.45,76.46,EMD,South,0
+IND_496,"Sunday, November 8, 2009",2009,11,India,IN,Tamil Nadu,TN,The Niligiris,NLG,Ooty,11.45,76.46,EMD,South,0
+IND_497,"Friday, October 9, 2009",2009,10,India,IN,Meghalaya,ML,West Jaintia,WJT,,25.48,92.12,EMD,North East,1
+IND_498,"Monday, October 12, 2009",2009,10,India,IN,Karnataka,KA,Kalaburagi,KLB,,17.33,76.75,EMD,South,0
+IND_499,"Monday, October 12, 2009",2009,10,India,IN,Karnataka,KA,Bijapur,BJR,,16.84,75.73,EMD,South,0
+IND_500,"Monday, October 12, 2009",2009,10,India,IN,Karnataka,KA,Raichur,RCR,,16.21,77.36,EMD,South,0
+IND_501,"Monday, October 12, 2009",2009,10,India,IN,Karnataka,KA,Dharwad,DHW,,15.46,74.95,EMD,South,0
+IND_502,"Monday, October 12, 2009",2009,10,India ,IN,Karnataka,KA,Bagalkote,BGK,,16.17,75.66,EMD,South,0
+IND_503,"Monday, October 12, 2009",2009,10,India,IN,Karnataka,KA,Bellary,BRY,,15.13,76.9,EMD,South,0
+IND_504,"Monday, October 12, 2009",2009,10,India,IN,Karnataka,KA,Koppal,KPL,,15.36,76.16,EMD,South,0
+IND_505,"Monday, October 12, 2009",2009,10,India,IN,Karnataka,KA,Haveri,HVR,,14.8,75.4,EMD,South,0
+IND_506,"Monday, October 12, 2009",2009,10,India,IN,Karnataka,KA,Bidar,BDR,,17.91,77.5,EMD,South,0
+IND_507,"Monday, October 12, 2009",2009,10,India ,IN,Karnataka,KA,Gadag,GDG,,15.43,75.64,EMD,South,0
+IND_508,"Monday, October 12, 2009",2009,10,India,IN,Karnataka,KA,Davanagere,DVG,,14.46,75.92,EMD,South,0
+IND_509,"Monday, October 12, 2009",2009,10,India,IN,Karnataka,KA,Uttara Kannada,UKN,,14.83,74.62,EMD,South,0
+IND_510,"Monday, October 12, 2009",2009,10,India,IN,Karnataka,KA,Dakshina Kannada,DKN,,12.8,75.3,EMD,South,0
+IND_511,"Monday, October 12, 2009",2009,10,India,IN,Andhra Pradesh,AP,Kurnool,KNL,,15.83,78.04,EMD,South,0
+IND_512,"Monday, October 12, 2009",2009,10,India,IN,Telangana,TG,Mahabubnagar,MHB,,16.75,77.98,EMD,South,0
+IND_513,"Monday, October 12, 2009",2009,10,India,IN,Telangana,TG,Karimnagar,KMN,,18.44,79.13,EMD,South,0
+IND_514,"Monday, October 12, 2009",2009,10,India,IN,Andhra Pradesh,AP,Krishna,KSH,,16.42,80.11,EMD,South,0
+IND_515,"Monday, October 12, 2009",2009,10,India,IN,Andhra Pradesh,AP,YSR,YSR,,14.47,78.82,EMD,South,0
+IND_516,"Monday, October 12, 2009",2009,10,India,IN,Andhra Pradesh,AP,Guntur,GTR,,16.31,80.44,EMD,South,0
+IND_517,"Monday, October 12, 2009",2009,10,India,IN,Telangana,TG,Khammam,KMM,,17.25,80.15,EMD,South,0
+IND_518,"Monday, October 12, 2009",2009,10,India,IN,Telangana,TG,Nalgonda,NAL,,17.06,79.24,EMD,South,0
+IND_519,"Friday, August 28, 2009",2009,8,India,IN,Bihar,BR,Darbhanga,DBG,,26.16,85.91,EMD,East,2
+IND_520,"Friday, August 28, 2009",2009,8,India,IN,Bihar,BR,Purnea,PNA,,25.77,87.45,EMD,East,2
+IND_521,"Friday, August 28, 2009",2009,8,India,IN,Bihar,BR,Sitamarhi,SMH,,26.58,85.46,EMD,East,2
+IND_522,"Friday, August 28, 2009",2009,8,India,IN,Bihar,BR,Saharsa,SHS,,25.89,86.62,EMD,East,2
+IND_523,"Friday, August 28, 2009",2009,8,India,IN,Bihar,BR,Madhubani,MDB,,26.35,86.03,EMD,East,2
+IND_524,"Monday, November 15, 2010",2010,11,India ,IN,Tamil Nadu,TN,Tirunelveli,TNV, Tirunelveli Kattabo,8.72,77.66,EMD,South,0
+IND_525,"Tuesday, December 7, 2010",2010,12,India,IN,Tamil Nadu,TN,Tirunelveli,TNV, Tirunelveli Kattabo,8.72,77.66,EMD,South,0
+IND_526,"Friday, August 6, 2010",2010,8,India ,IN,Ladakh,LA,Leh,LEH,Cholglamsar,34.23,77.56,EMD,North,2
+IND_527,"Sunday, August 8, 2010",2010,8,India,IN,Jammu & Kashmir,JK,Leh,LEH,Cholglamsar,34.23,77.56,EMD,North,2
+IND_528,"Sunday, September 5, 2010",2010,9,India ,IN,Assam,AS,Lakhimpur,LKM,,26.84,91.9,EMD,North East,1
+IND_529,"Monday, July 5, 2010",2010,7,India ,IN,Haryana,HR,Ambala,ABL,,30.37,76.78,EMD,North,2
+IND_530,"Tuesday, May 18, 2010",2010,5,India ,IN,Haryana,HR,Kurukshetra,KKS,,29.97,76.9,EMD,North,2
+IND_531,"Monday, July 5, 2010",2010,7,India ,IN,Haryana,HR,Kurukshetra,KKS,,29.97,76.9,EMD,North,2
+IND_532,"Monday, November 15, 2010",2010,11,India ,IN,Tamil Nadu,TN,Chennai,CHN,,13.06,80.13,EMD,South,0
+IND_533,"Monday, November 15, 2010",2010,11,India ,IN,Tamil Nadu,TN,Cuddalore,CLR,,11.76,79.77,EMD,South,0
+IND_534,"Monday, November 15, 2010",2010,11,India ,IN,Tamil Nadu,TN,Nagapattinam,NPT,,10.78,79.83,EMD,South,0
+IND_535,"Monday, November 15, 2010",2010,11,India ,IN,Tamil Nadu,TN,Pudukkottai,PDK,,10.38,78.78,EMD,South,0
+IND_536,"Monday, November 15, 2010",2010,11,India ,IN,Tamil Nadu,TN,Ramanthapuram,RTP,,9.37,78.83,EMD,South,0
+IND_537,"Monday, November 15, 2010",2010,11,India ,IN,Tamil Nadu,TN,Thanjavur,TNJ,,10.76,79.13,EMD,South,0
+IND_538,"Monday, November 15, 2010",2010,11,India ,IN,Tamil Nadu,TN,Thoothukudi,TTK,,8.78,78.08,EMD,South,0
+IND_539,"Monday, November 15, 2010",2010,11,India ,IN,Tamil Nadu,TN,Tiruvallur,TVL,,13.12,79.9,EMD,South,0
+IND_540,"Monday, November 15, 2010",2010,11,India ,IN,Tamil Nadu,TN,Villupuram,VLP,,11.95,79.5,EMD,South,0
+IND_541,"Saturday, September 18, 2010",2010,9,India ,IN,Uttarakhand,UT,Almora,ALM,,29.6,79.66,EMD,North,2
+IND_542,"Saturday, September 18, 2010",2010,9,India ,IN,Uttarakhand,UT,Nainital,NNT,,29.39,79.45,EMD,North,2
+IND_543,"Sunday, August 8, 2010",2010,8,India,IN,Ladakh,LA,Leh,LEH,,34.23,77.56,EMD,North,2
+IND_544,"Thursday, September 30, 2010",2010,9,India,IN,Uttarakhand,UT,Almora,ALM,,29.6,79.66,EMD,North,2
+IND_545,"Thursday, September 30, 2010",2010,9,India,IN,Uttarakhand,UT,Nainital,NNT,,29.39,79.45,EMD,North,2
+IND_546,"Thursday, July 15, 2010",2010,7,India,IN,Haryana,HR,Ambala,ABL,,30.37,76.78,EMD,North,2
+IND_547,"Thursday, July 15, 2010",2010,7,India,IN,Haryana,HR,Kurukshetra,KKS,,29.97,76.9,EMD,North,2
+IND_548,"Friday, September 17, 2010",2010,9,India,IN,Uttar Pradesh,UP,Lakhimpur Kheri,LKH,,27.94,80.76,EMD,North,2
+IND_549,"Tuesday, December 7, 2010",2010,12,India,IN,Tamil Nadu,TN,Chennai,CHN,,13.06,80.13,EMD,South,0
+IND_550,"Tuesday, December 7, 2010",2010,12,India,IN,Tamil Nadu,TN,Cuddalore,CLR,,11.76,79.77,EMD,South,0
+IND_551,"Tuesday, December 7, 2010",2010,12,India,IN,Tamil Nadu,TN,Nagapattinam,NPT,,10.78,79.83,EMD,South,0
+IND_552,"Tuesday, December 7, 2010",2010,12,India,IN,Tamil Nadu,TN,Pudukkottai,PDK,,10.38,78.78,EMD,South,0
+IND_553,"Tuesday, December 7, 2010",2010,12,India,IN,Tamil Nadu,TN,Ramanthapuram,RTP,,9.37,78.83,EMD,South,0
+IND_554,"Tuesday, December 7, 2010",2010,12,India,IN,Tamil Nadu,TN,Thanjavur,TNJ,,10.76,79.13,EMD,South,0
+IND_555,"Tuesday, December 7, 2010",2010,12,India,IN,Tamil Nadu,TN,Tiruvallur,TVL,,13.12,79.9,EMD,South,0
+IND_556,"Tuesday, December 7, 2010",2010,12,India,IN,Tamil Nadu,TN,Villupuram,VLP,,11.95,79.5,EMD,South,0
+IND_557,"Tuesday, December 7, 2010",2010,12,India,IN,Tamil Nadu,TN,Thoothukudi,TTK,,8.78,78.08,EMD,South,0
+IND_558,"Thursday, September 8, 2011",2011,9,India,IN,Meghalaya,ML,West Garo Hills,WGH,Tura,25.6,89.82,EMD,North East,1
+IND_559,"Monday, August 15, 2011",2011,8,India ,IN,Assam,AS,Barpeta,BRP,,26.32,91.01,EMD,North East,1
+IND_560,"Monday, August 15, 2011",2011,8,India ,IN,Assam,AS,Bongaigaon,BGG,,26.49,90.53,EMD,North East,1
+IND_561,"Monday, August 15, 2011",2011,8,India ,IN,Assam,AS,Darrang,DRN,,26.44,92.05,EMD,North East,1
+IND_562,"Monday, August 15, 2011",2011,8,India ,IN,Assam,AS,Dhemaji,DMJ,,27.48,94.53,EMD,North East,1
+IND_563,"Monday, August 15, 2011",2011,8,India ,IN,Assam,AS,Dhubri,DHB,,26.02,89.97,EMD,North East,1
+IND_564,"Monday, August 15, 2011",2011,8,India ,IN,Assam,AS,Golaghat,GLG,,26.52,93.97,EMD,North East,1
+IND_565,"Monday, August 15, 2011",2011,8,India ,IN,Assam,AS,Jorhat,JHT,,26.75,94.2,EMD,North East,1
+IND_566,"Monday, August 15, 2011",2011,8,India ,IN,Assam,AS,Lakhimpur,LKM,,26.84,91.9,EMD,North East,1
+IND_567,"Monday, August 15, 2011",2011,8,India ,IN,Assam,AS,Nagaon,NGN,,26.35,92.68,EMD,North East,1
+IND_568,"Monday, August 15, 2011",2011,8,India ,IN,Assam,AS,Sivasagar,SVG,,26.98,94.64,EMD,North East,1
+IND_569,"Monday, August 15, 2011",2011,8,India ,IN,Assam,AS,Sonitpur,SNP,,26.67,92.86,EMD,North East,1
+IND_570,"Monday, August 15, 2011",2011,8,India ,IN,Assam,AS,West Karbi Anglong,WKA,,25.66,92.32,EMD,North East,1
+IND_571,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Begusarai,BGS,,25.42,86.11,EMD,East,2
+IND_572,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Bhagalpur,BGP,,25.19,86.74,EMD,East,2
+IND_573,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Bhojpur,BPR,,25.48,84.56,EMD,East,2
+IND_574,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Buxar,BXR,,25.57,83.97,EMD,East,2
+IND_575,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Gopalganj,GPG,,26.48,84.43,EMD,East,2
+IND_576,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Khagaria,KGR,,25.51,86.48,EMD,East,2
+IND_577,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Kishanganj,KGJ,,26.09,87.93,EMD,East,1
+IND_578,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Lakhisarai,LKS,,25.17,86.09,EMD,East,2
+IND_579,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Madhepura,MDP,,25.92,86.79,EMD,East,2
+IND_580,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Madhubani,MDB,,26.35,86.03,EMD,East,2
+IND_581,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Muzaffarpur,MZF,,26.12,85.38,EMD,East,2
+IND_582,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Patna,PTA,,25.61,85.06,EMD,East,2
+IND_583,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Purnea,PNA,,25.77,87.45,EMD,East,2
+IND_584,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Saharsa,SHS,,25.89,86.62,EMD,East,2
+IND_585,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Samastipur,SMT,,25.85,85.78,EMD,East,2
+IND_586,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Saran,SRN,,26.05,84.62,EMD,East,2
+IND_587,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Sitamarhi,SMH,,26.58,85.46,EMD,East,2
+IND_588,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Supaul,SPL,,26.12,86.59,EMD,East,2
+IND_589,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,Vaishali,VSH,,25.74,85.02,EMD,East,2
+IND_590,"Monday, August 15, 2011",2011,8,India ,IN,Bihar,BR,West Champaran,WCP,,27.08,83.76,EMD,East,2
+IND_591,"Friday, September 23, 2011",2011,9,India ,IN,Jharkhand,JH,Deoghar,DGR,,24.47,86.66,EMD,East,2
+IND_592,"Monday, August 15, 2011",2011,8,India ,IN,Meghalaya,ML,East Garo Hills,EGH,,25.67,90.72,EMD,North East,1
+IND_593,"Monday, August 15, 2011",2011,8,India ,IN,Meghalaya,ML,South Garo Hills,SGS,,25.3,90.61,EMD,North East,1
+IND_594,"Monday, August 15, 2011",2011,8,India ,IN,Meghalaya,ML,West Garo Hills,WGH,,25.6,89.82,EMD,North East,1
+IND_595,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Angul,AGL,,20.85,85.13,EMD,East,2
+IND_596,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Baleswar,BLS,,21.49,86.91,EMD,East,2
+IND_597,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Bargarh,BRG,,21.35,83.63,EMD,East,2
+IND_598,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Bhadrak,BDK,,21.06,86.5,EMD,East,2
+IND_599,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Boudh,BDH,,20.93,83.97,EMD,East,2
+IND_600,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Cuttack,CTK,,20.46,85.88,EMD,East,2
+IND_601,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Dhenkanal,DKL,,20.64,85.6,EMD,East,2
+IND_602,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Jagatsinghpur,JSH,,20.26,86.17,EMD,East,2
+IND_603,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Jajpur,JJP,,20.84,86.33,EMD,East,2
+IND_604,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Jharsuguda,JSD,,21.87,84.01,EMD,East,2
+IND_605,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Kendrapara,KDR,,20.5,86.42,EMD,East,2
+IND_606,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Khordha,KRD,,20.18,85.67,EMD,East,2
+IND_607,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Mayurbhanj,MYB,,21.91,85.76,EMD,East,2
+IND_608,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Nayagarh,NYG,,20.12,85.11,EMD,East,2
+IND_609,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Nuapada,NPD,,20.81,82.54,EMD,East,2
+IND_610,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Puri,PRI,,19.81,85.8,EMD,East,2
+IND_611,"Friday, September 23, 2011",2011,9,India ,IN,Odisha,OR,Sambalpur,SBP,,21.47,83.93,EMD,East,2
+IND_612,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Aligarh,ALG,,27.9,78.08,EMD,North,2
+IND_613,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Ambedkarnagar,ABN,,26.42,82.49,EMD,North,2
+IND_614,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Azamgarh,AZM,,26.06,83.19,EMD,North,2
+IND_615,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Bahraich,BHH,,27.58,81.6,EMD,North,2
+IND_616,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Ballia,BLA,,25.88,83.89,EMD,North,2
+IND_617,"Saturday, July 23, 2011",2011,7,India ,IN,Uttar Pradesh,UP,Balrampur,BLM,,27.43,82.18,EMD,North,2
+IND_618,"Saturday, July 23, 2011",2011,7,India ,IN,Uttar Pradesh,UP,Barabanki,BBK,,26.94,81.19,EMD,North,2
+IND_619,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Barabanki,BBK,,26.94,81.19,EMD,North,2
+IND_620,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Bareilly,BRL,,28.38,79.43,EMD,North,2
+IND_621,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Bijnor,BJN,,29.38,78.14,EMD,North,2
+IND_622,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Budaun,BDN,,28.02,79.1,EMD,North,2
+IND_623,"Saturday, July 23, 2011",2011,7,India ,IN,Uttar Pradesh,UP,Faizabad,FZB,,26.77,82.15,EMD,North,2
+IND_624,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Faizabad,FZB,,26.77,82.15,EMD,North,2
+IND_625,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Firozabad,FZD,,27.16,79.37,EMD,North,2
+IND_626,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Ghazipur,GZP,,25.59,83.57,EMD,North,2
+IND_627,"Saturday, July 23, 2011",2011,7,India ,IN,Uttar Pradesh,UP,Gonda,GND,,27.14,81.96,EMD,North,2
+IND_628,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Gonda,GND,,27.14,81.96,EMD,North,2
+IND_629,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Gorakhpur,GRK,,26.73,83.34,EMD,North,2
+IND_630,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Hardoi,HDI,,27.39,80.14,EMD,North,2
+IND_631,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Amroha,AMH,,28.85,78.39,EMD,North,2
+IND_632,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Kannauj,KNJ,,27.04,79.9,EMD,North,2
+IND_633,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Kanpur Nagar,KPN,,26.44,80.32,EMD,North,2
+IND_634,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Kushinagar,KSN,,26.74,83.89,EMD,North,2
+IND_635,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Lakhimpur Kheri,LKH,,27.94,80.76,EMD,North,2
+IND_636,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Meerut,MRT,,28.99,77.7,EMD,North,2
+IND_637,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Moradabad,MRD,,28.82,78.74,EMD,North,2
+IND_638,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Muzaffarnagar,MZN,,29.48,77.71,EMD,North,2
+IND_639,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Pilibhit,PLB,,28.62,79.81,EMD,North,2
+IND_640,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Rampur,RMP,,28.8,79.03,EMD,North,2
+IND_641,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Shahjahanpur,SJN,,27.87,79.88,EMD,North,2
+IND_642,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Sitapur,STP,,27.57,80.68,EMD,North,2
+IND_643,"Monday, August 15, 2011",2011,8,India ,IN,Uttar Pradesh,UP,Unnao,UNO,,26.55,80.49,EMD,North,2
+IND_644,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Angul,AGL,,20.85,85.13,EMD,East,2
+IND_645,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Baleswar,BLS,,21.49,86.91,EMD,East,2
+IND_646,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Bargarh,BRG,,21.35,83.63,EMD,East,2
+IND_647,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Bhadrak,BDK,,21.06,86.5,EMD,East,2
+IND_648,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Boudh,BDH,,20.93,83.97,EMD,East,2
+IND_649,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Cuttack,CTK,,20.46,85.88,EMD,East,2
+IND_650,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Deogarh,DEG,,21.54,84.73,EMD,East,2
+IND_651,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Dhenkanal,DKL,,20.64,85.6,EMD,East,2
+IND_652,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Jajpur,JJP,,20.84,86.33,EMD,East,2
+IND_653,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Jagatsinghpur,JSH,,20.26,86.17,EMD,East,2
+IND_654,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Jharsuguda,JSD,,21.87,84.01,EMD,East,2
+IND_655,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Kendrapara,KDR,,20.5,86.42,EMD,East,2
+IND_656,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Khordha,KRD,,20.18,85.67,EMD,East,2
+IND_657,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Mayurbhanj,MYB,,21.91,85.76,EMD,East,2
+IND_658,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Nayagarh,NYG,,20.12,85.11,EMD,East,2
+IND_659,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Nuapada,NPD,,20.81,82.54,EMD,East,2
+IND_660,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Puri,PRI,,19.81,85.8,EMD,East,2
+IND_661,"Sunday, October 23, 2011",2011,10,India,IN,Odisha,OR,Sambalpur,SBP,,21.47,83.93,EMD,East,2
+IND_662,"Thursday, September 8, 2011",2011,9,India,IN,Assam,AS,Dhemaji,DMJ,,27.48,94.53,EMD,North East,1
+IND_663,"Thursday, September 8, 2011",2011,9,India,IN,Meghalaya,ML,East Garo Hills,EGH,,25.67,90.72,EMD,North East,1
+IND_664,"Thursday, September 8, 2011",2011,9,India,IN,Meghalaya,ML,South Garo Hills,SGS,,25.3,90.61,EMD,North East,1
+IND_665,"Sunday, October 2, 2011",2011,10,India,IN,Assam,AS,Barpeta,BRP,,26.32,91.01,EMD,North East,1
+IND_666,"Sunday, October 2, 2011",2011,10,India,IN,Assam,AS,Bongaigaon,BGG,,26.49,90.53,EMD,North East,1
+IND_667,"Sunday, October 2, 2011",2011,10,India,IN,Assam,AS,Chirang,CRN,,26.64,90.64,EMD,North East,1
+IND_668,"Sunday, October 2, 2011",2011,10,India,IN,Assam,AS,Darrang,DRN,,26.44,92.05,EMD,North East,1
+IND_669,"Sunday, October 2, 2011",2011,10,India,IN,Assam,AS,Dhemaji,DMJ,,27.48,94.53,EMD,North East,1
+IND_670,"Sunday, October 2, 2011",2011,10,India,IN,Assam,AS,Dhubri,DHB,,26.02,89.97,EMD,North East,1
+IND_671,"Sunday, October 2, 2011",2011,10,India,IN,Assam,AS,Golaghat,GLG,,26.52,93.97,EMD,North East,1
+IND_672,"Sunday, October 2, 2011",2011,10,India,IN,Assam,AS,Jorhat,JHT,,26.75,94.2,EMD,North East,1
+IND_673,"Sunday, October 2, 2011",2011,10,India,IN,Assam,AS,Karbi Anglong,KAN,,26.16,93.41,EMD,North East,1
+IND_674,"Sunday, October 2, 2011",2011,10,India,IN,Assam,AS,Sivasagar,SVG,,26.98,94.64,EMD,North East,1
+IND_675,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Lakhimpur Kheri,LKH,,27.94,80.76,EMD,North,2
+IND_676,"Sunday, October 2, 2011",2011,10,India,IN,Assam,AS,Nagaon,NGN,,26.35,92.68,EMD,North East,1
+IND_677,"Sunday, October 2, 2011",2011,10,India,IN,Assam,AS,Sonitpur,SNP,,26.67,92.86,EMD,North East,1
+IND_678,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Begusarai,BGS,,25.42,86.11,EMD,East,2
+IND_679,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Bhagalpur,BGP,,25.19,86.74,EMD,East,2
+IND_680,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Bhojpur,BPR,,25.48,84.56,EMD,East,2
+IND_681,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Buxar,BXR,,25.57,83.97,EMD,East,2
+IND_682,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Gopalganj,GPG,,26.48,84.43,EMD,East,2
+IND_683,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Katihar,KHR,,25.55,87.56,EMD,East,2
+IND_684,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Khagaria,KGR,,25.51,86.48,EMD,East,2
+IND_685,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Kishanganj,KGJ,,26.09,87.93,EMD,East,1
+IND_686,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Lakhisarai,LKS,,25.17,86.09,EMD,East,2
+IND_687,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Madhubani,MDB,,26.35,86.03,EMD,East,2
+IND_688,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Madhepura,MDP,,25.92,86.79,EMD,East,2
+IND_689,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Muzaffarpur,MZF,,26.12,85.38,EMD,East,2
+IND_690,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Patna,PTA,,25.61,85.06,EMD,East,2
+IND_691,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Purnea,PNA,,25.77,87.45,EMD,East,2
+IND_692,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Samastipur,SMT,,25.85,85.78,EMD,East,2
+IND_693,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Saran,SRN,,26.05,84.62,EMD,East,2
+IND_694,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Saharsa,SHS,,25.89,86.62,EMD,East,2
+IND_695,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Sitamarhi,SMH,,26.58,85.46,EMD,East,2
+IND_696,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Supaul,SPL,,26.12,86.59,EMD,East,2
+IND_697,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,Vaishali,VSH,,25.74,85.02,EMD,East,2
+IND_698,"Sunday, October 2, 2011",2011,10,India,IN,Bihar,BR,West Champaran,WCP,,27.08,83.76,EMD,East,2
+IND_699,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Azamgarh,AZM,,26.07,83.19,EMD,North,2
+IND_700,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Aligarh,ALG,,27.9,78.08,EMD,North,2
+IND_701,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Ambedkar Nagar,ABP,,26.41,82.43,EMD,North,2
+IND_702,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Budaun,BDN,,28.02,79.1,EMD,North,2
+IND_703,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Ballia,BLA,,25.88,83.89,EMD,North,2
+IND_704,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Barabanki,BBK,,26.94,81.19,EMD,North,2
+IND_705,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Bahraich,BHH,,27.58,81.6,EMD,North,2
+IND_706,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Bareilly,BRL,,28.38,79.43,EMD,North,2
+IND_707,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Bijnor,BJN,,29.38,78.14,EMD,North,2
+IND_708,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Ayodhya,AYD,,26.79,82.2,EMD,North,2
+IND_709,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Farrukhabad,FKD,,27.38,79.59,EMD,North,2
+IND_710,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Ghazipur,GZP,,25.59,83.57,EMD,North,2
+IND_711,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Gonda,GND,,27.14,81.96,EMD,North,2
+IND_712,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Gorakhpur,GRK,,26.73,83.34,EMD,North,2
+IND_713,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Hardoi,HDI,,27.39,80.14,EMD,North,2
+IND_714,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Amroha,AMH,,28.85,78.39,EMD,North,2
+IND_715,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Kannauj,KNJ,,27.04,79.9,EMD,North,2
+IND_716,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Kanpur Nagar,KPN,,26.44,80.32,EMD,North,2
+IND_717,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Kushinagar,KSN,,26.74,83.89,EMD,North,2
+IND_718,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Lakhimpur Kheri,LKH,,27.94,80.76,EMD,North,2
+IND_719,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Meerut,MRT,,28.99,77.7,EMD,North,2
+IND_720,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Muzaffarnagar,MZN,,29.48,77.71,EMD,North,2
+IND_721,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Moradabad,MRD,,28.82,78.74,EMD,North,2
+IND_722,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Pilibhit,PLB,,28.62,79.81,EMD,North,2
+IND_723,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Rampur,RMP,,28.8,79.03,EMD,North,2
+IND_724,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Shahjahanpur,SJN,,27.87,79.88,EMD,North,2
+IND_725,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Sitapur,STP,,27.57,80.68,EMD,North,2
+IND_726,"Sunday, October 2, 2011",2011,10,India,IN,Uttar Pradesh,UP,Unnao,UNO,,26.55,80.49,EMD,North,2
+IND_727,"Tuesday, August 9, 2011",2011,8,India,IN,Uttar Pradesh,UP,Gonda,GND,,27.14,81.96,EMD,North,2
+IND_728,"Tuesday, August 9, 2011",2011,8,India,IN,Uttar Pradesh,UP,Balrampur,BLM,,27.43,82.18,EMD,North,2
+IND_729,"Tuesday, August 9, 2011",2011,8,India,IN,Uttar Pradesh,UP,Ayodhya,AYD,,26.79,82.2,EMD,North,2
+IND_730,"Tuesday, August 9, 2011",2011,8,India,IN,Uttar Pradesh,UP,Barabanki,BBK,,26.94,81.19,EMD,North,2
+IND_731,"Saturday, August 4, 2012",2012,8,India ,IN,Himachal Pradesh,HP,Kullu,KLU,Palchan,31.95,77.09,EMD,North,2
+IND_732,"Thursday, August 9, 2012",2012,8,India,IN,Himachal Pradesh,HP,Kullu,KLU,Palchan,31.95,77.09,EMD,North,2
+IND_733,"Tuesday, June 26, 2012",2012,6,India ,IN,Arunachal Pradesh,AR,Anjaw,AJW,,27.98,96.85,EMD,North East,1
+IND_734,"Tuesday, August 21, 2012",2012,8,India ,IN,Arunachal Pradesh,AR,Anjaw,AJW,,27.98,96.85,EMD,North East,1
+IND_735,"Tuesday, June 26, 2012",2012,6,India ,IN,Arunachal Pradesh,AR,Changlang,CGL,,27.13,95.74,EMD,North East,1
+IND_736,"Tuesday, June 26, 2012",2012,6,India ,IN,Arunachal Pradesh,AR,East Siang,ESN,,28.07,95.43,EMD,North East,1
+IND_737,"Wednesday, September 19, 2012",2012,9,India ,IN,Arunachal Pradesh,AR,East Siang,ESN,,28.07,95.43,EMD,North East,1
+IND_738,"Tuesday, June 26, 2012",2012,6,India ,IN,Arunachal Pradesh,AR,Lohit,LHT,,27.95,96.16,EMD,North East,1
+IND_739,"Wednesday, September 19, 2012",2012,9,India ,IN,Arunachal Pradesh,AR,Lohit,LHT,,27.95,96.16,EMD,North East,1
+IND_740,"Tuesday, June 26, 2012",2012,6,India ,IN,Arunachal Pradesh,AR,Lower Dibang Valley,LDV,,28.22,95.51,EMD,North East,1
+IND_741,"Tuesday, August 21, 2012",2012,8,India ,IN,Arunachal Pradesh,AR,Lower Dibang Valley,LDV,,28.22,95.51,EMD,North East,1
+IND_742,"Wednesday, September 19, 2012",2012,9,India ,IN,Arunachal Pradesh,AR,Papum Pare,PPP,,27.36,94.03,EMD,North East,1
+IND_743,"Tuesday, June 26, 2012",2012,6,India ,IN,Arunachal Pradesh,AR,Upper Siang,UPS,,28.89,94.88,EMD,North East,1
+IND_744,"Tuesday, August 21, 2012",2012,8,India ,IN,Arunachal Pradesh,AR,Upper Siang,UPS,,28.89,94.88,EMD,North East,1
+IND_745,"Tuesday, August 21, 2012",2012,8,India ,IN,Arunachal Pradesh,AR,Upper Siang,UPS,,28.89,94.88,EMD,North East,1
+IND_746,"Wednesday, September 19, 2012",2012,9,India ,IN,Arunachal Pradesh,AR,West Siang,WSG,,28.19,94.32,EMD,North East,1
+IND_747,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Barpeta,BRP,,26.32,91.01,EMD,North East,1
+IND_748,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Bongaigaon,BGG,,26.49,90.53,EMD,North East,1
+IND_749,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Darrang,DRN,,26.44,92.05,EMD,North East,1
+IND_750,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Dhemaji,DMJ,,27.48,94.53,EMD,North East,1
+IND_751,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Dhubri,DHB,,26.02,89.97,EMD,North East,1
+IND_752,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Dibrugarh,DGH,,27.47,94.88,EMD,North East,1
+IND_753,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Goalpara,GLP,,26.17,90.62,EMD,North East,1
+IND_754,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Golaghat,GLG,,26.52,93.97,EMD,North East,1
+IND_755,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Jorhat,JHT,,26.75,94.2,EMD,North East,1
+IND_756,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Kamrup,KRP,,26.13,90.72,EMD,North East,1
+IND_757,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Lakhimpur,LKM,,26.84,91.9,EMD,North East,1
+IND_758,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Morigaon,MRG,,26.25,92.33,EMD,North East,1
+IND_759,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Nagaon,NGN,,26.35,92.68,EMD,North East,1
+IND_760,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Nalbari,NLB,,26.45,91.44,EMD,North East,1
+IND_761,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Sivasagar,SVG,,26.98,94.64,EMD,North East,1
+IND_762,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Sonitpur,SNP,,26.67,92.86,EMD,North East,1
+IND_763,"Wednesday, September 19, 2012",2012,9,India ,IN,Assam,AS,Tinsukia,TSK,,27.49,95.35,EMD,North East,1
+IND_764,"Wednesday, September 19, 2012",2012,9,India ,IN,Bihar,BR,Bhagalpur,BGP,,25.19,86.74,EMD,East,2
+IND_765,"Wednesday, September 19, 2012",2012,9,India ,IN,Bihar,BR,Darbhanga,DBG,,26.16,85.91,EMD,East,2
+IND_766,"Wednesday, September 19, 2012",2012,9,India ,IN,Bihar,BR,Katihar,KHR,,25.55,87.56,EMD,East,2
+IND_767,"Wednesday, September 19, 2012",2012,9,India ,IN,Bihar,BR,Khagaria,KGR,,25.51,86.48,EMD,East,2
+IND_768,"Wednesday, September 19, 2012",2012,9,India ,IN,Bihar,BR,Muzaffarpur,MZF,,26.12,85.38,EMD,East,2
+IND_769,"Wednesday, September 19, 2012",2012,9,India ,IN,Bihar,BR,Patna,PTA,,25.61,85.06,EMD,East,2
+IND_770,"Wednesday, September 19, 2012",2012,9,India ,IN,Bihar,BR,Siwan,SWN,,26.22,84.39,EMD,East,2
+IND_771,"Wednesday, September 19, 2012",2012,9,India ,IN,Bihar,BR,Supaul,SPL,,26.12,86.59,EMD,East,2
+IND_772,"Saturday, August 4, 2012",2012,8,India ,IN,Jammu & Kashmir,JK,Kathua,KTH,,32.39,75.52,EMD,North,2
+IND_773,"Wednesday, September 19, 2012",2012,9,India ,IN,Jharkhand,JH,Sahibganj,SHB,,25.23,87.62,EMD,East,2
+IND_774,"Tuesday, August 21, 2012",2012,8,India ,IN,Rajasthan,RJ,Dholpur,DLP,,26.69,77.88,EMD,North,2
+IND_775,"Tuesday, August 21, 2012",2012,8,India ,IN,Rajasthan,RJ,Hanumangarh,HMG,,29.59,74.33,EMD,North,2
+IND_776,"Tuesday, August 21, 2012",2012,8,India ,IN,Rajasthan,RJ,Jaipur,JPR,,26.88,75.78,EMD,North,2
+IND_777,"Tuesday, August 21, 2012",2012,8,India ,IN,Rajasthan,RJ,Jhunjhunu,JJU,,28.12,75.4,EMD,North,2
+IND_778,"Tuesday, August 21, 2012",2012,8,India ,IN,Rajasthan,RJ,Sikar,SKR,,27.61,75.15,EMD,North,2
+IND_779,"Tuesday, August 21, 2012",2012,8,India ,IN,Rajasthan,RJ,Tonk,TNK,,26.17,75.76,EMD,North,2
+IND_780,"Wednesday, September 19, 2012",2012,9,India ,IN,Sikkim,SK,North Sikkim,NSK,,27.82,88.56,EMD,North East,1
+IND_781,"Wednesday, September 19, 2012",2012,9,India ,IN,Uttar Pradesh,UP,Ballia,BLA,,25.88,83.89,EMD,North,2
+IND_782,"Wednesday, September 19, 2012",2012,9,India ,IN,Uttar Pradesh,UP,Barabanki,BBK,,26.94,81.19,EMD,North,2
+IND_783,"Wednesday, September 19, 2012",2012,9,India ,IN,Uttar Pradesh,UP,Faizabad,FZB,,26.77,82.15,EMD,North,2
+IND_784,"Saturday, August 4, 2012",2012,8,India ,IN,Uttar Pradesh,UP,Moradabad,MRD,,28.82,78.74,EMD,North,2
+IND_785,"Sunday, September 16, 2012",2012,9,India ,IN,Uttarakhand,UT,Bageshwar,BGR,,29.84,79.77,EMD,North,2
+IND_786,"Saturday, August 4, 2012",2012,8,India ,IN,Uttarakhand,UT,Chamoli,CHM,,30.52,79.24,EMD,North,2
+IND_787,"Saturday, August 4, 2012",2012,8,India ,IN,Uttarakhand,UT,Rudraprayag,RPG,,30.28,78.98,EMD,North,2
+IND_788,"Sunday, September 16, 2012",2012,9,India ,IN,Uttarakhand,UT,Rudraprayag,RPG,,30.28,78.98,EMD,North,2
+IND_789,"Friday, July 13, 2012",2012,7,India,IN,Arunachal Pradesh,AR,Anjaw,AJW,,27.98,96.85,EMD,North East,1
+IND_790,"Friday, July 13, 2012",2012,7,India,IN,Arunachal Pradesh,AR,Lohit,LHT,,27.95,96.16,EMD,North East,1
+IND_791,"Friday, July 13, 2012",2012,7,India,IN,Arunachal Pradesh,AR,Changlang,CGL,,27.13,95.74,EMD,North East,1
+IND_792,"Friday, July 13, 2012",2012,7,India,IN,Arunachal Pradesh,AR,Lower Dibang Valley,LDV,,28.22,95.51,EMD,North East,1
+IND_793,"Friday, July 13, 2012",2012,7,India,IN,Arunachal Pradesh,AR,East Siang,ESN,,28.07,95.43,EMD,North East,1
+IND_794,"Friday, July 13, 2012",2012,7,India,IN,Arunachal Pradesh,AR,Upper Siang,UPS,,28.89,94.88,EMD,North East,1
+IND_795,"Thursday, August 9, 2012",2012,8,India,IN,Uttarakhand,UT,Uttarkashi,UTK,,30.73,78.43,EMD,North,2
+IND_796,"Thursday, August 9, 2012",2012,8,India,IN,Uttarakhand,UT,Rudraprayag,RPG,,30.28,78.98,EMD,North,2
+IND_797,"Thursday, August 9, 2012",2012,8,India,IN,Uttarakhand,UT,Chamoli,CHM,,30.52,79.24,EMD,North,2
+IND_798,"Thursday, August 9, 2012",2012,8,India,IN,Uttar Pradesh,UP,Moradabad,MRD,,28.82,78.74,EMD,North,2
+IND_799,"Thursday, August 9, 2012",2012,8,India,IN,Jammu & Kashmir,JK,Kathua,KTH,,32.39,75.52,EMD,North,2
+IND_800,"Tuesday, September 18, 2012",2012,9,India,IN,Uttarakhand,UT,Rudraprayag,RPG,,30.28,78.98,EMD,North,2
+IND_801,"Tuesday, September 18, 2012",2012,9,India,IN,Uttarakhand,UT,Bageshwar,BGR,,29.84,79.77,EMD,North,2
+IND_802,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Barpeta,BRP,,26.32,91.01,EMD,North East,1
+IND_803,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Bongaigaon,BGG,,26.49,90.53,EMD,North East,1
+IND_804,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Chirang,CRN,,26.64,90.64,EMD,North East,1
+IND_805,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Darrang,DRN,,26.44,92.05,EMD,North East,1
+IND_806,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Dhemaji,DMJ,,27.48,94.53,EMD,North East,1
+IND_807,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Dhubri,DHB,,26.02,89.97,EMD,North East,1
+IND_808,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Dibrugarh,DGH,,27.47,94.88,EMD,North East,1
+IND_809,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Goalpara,GLP,,26.17,90.62,EMD,North East,1
+IND_810,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Golaghat,GLG,,26.52,93.97,EMD,North East,1
+IND_811,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Jorhat,JHT,,26.75,94.2,EMD,North East,1
+IND_812,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Kamrup,KRP,,26.13,90.72,EMD,North East,1
+IND_813,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Lakhimpur,LKM,,26.84,91.9,EMD,North East,1
+IND_814,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Morigaon,MRG,,26.25,92.33,EMD,North East,1
+IND_815,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Nagaon,NGN,,26.35,92.68,EMD,North East,1
+IND_816,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Nalbari,NLB,,26.45,91.44,EMD,North East,1
+IND_817,"Sunday, September 23, 2012",2012,9,India,IN,Arunachal Pradesh,AR,Papum Pare,PPP,,27.36,94.03,EMD,North East,1
+IND_818,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Sivasagar,SVG,,26.98,94.64,EMD,North East,1
+IND_819,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Sonitpur,SNP,,26.67,92.86,EMD,North East,1
+IND_820,"Sunday, September 23, 2012",2012,9,India,IN,Assam,AS,Tinsukia,TSK,,27.49,95.35,EMD,North East,1
+IND_821,"Sunday, September 23, 2012",2012,9,India,IN,Bihar,BR,Bhagalpur,BGP,,25.19,86.74,EMD,East,2
+IND_822,"Sunday, September 23, 2012",2012,9,India,IN,Bihar,BR,Darbhanga,DBG,,26.67,92.86,EMD,East,1
+IND_823,"Sunday, September 23, 2012",2012,9,India,IN,Bihar,BR,Katihar,KHR,,25.55,87.56,EMD,East,2
+IND_824,"Sunday, September 23, 2012",2012,9,India,IN,Bihar,BR,Khagaria,KGR,,26.67,92.86,EMD,East,1
+IND_825,"Sunday, September 23, 2012",2012,9,India,IN,Bihar,BR,Muzaffarpur,MZF,,26.67,92.86,EMD,East,1
+IND_826,"Sunday, September 23, 2012",2012,9,India,IN,Bihar,BR,Patna,PTA,,25.61,85.06,EMD,East,2
+IND_827,"Sunday, September 23, 2012",2012,9,India,IN,Bihar,BR,Siwan,SWN,,26.22,84.39,EMD,East,2
+IND_828,"Sunday, September 23, 2012",2012,9,India,IN,Bihar,BR,Supaul,SPL,,26.12,86.59,EMD,East,2
+IND_829,"Sunday, September 23, 2012",2012,9,India,IN,Jharkhand,JH,Sahibganj,SHB,,25.23,87.62,EMD,East,2
+IND_830,"Sunday, September 23, 2012",2012,9,India,IN,Sikkim,SK,North Sikkim,NSK,,27.82,88.56,EMD,North East,1
+IND_831,"Sunday, September 23, 2012",2012,9,India,IN,Uttar Pradesh,UP,Ballia,BLA,,25.88,83.89,EMD,North,2
+IND_832,"Sunday, September 23, 2012",2012,9,India,IN,Uttar Pradesh,UP,Barabanki,BBK,,26.94,81.19,EMD,North,2
+IND_833,"Sunday, September 23, 2012",2012,9,India,IN,Uttar Pradesh,UP,Ayodhya,AYD,,26.79,82.2,EMD,North,2
+IND_834,"Sunday, September 23, 2012",2012,9,India,IN,West Bengal,WB,Murshidabad,MSD,,24.18,88.23,EMD,East,1
+IND_835,"Sunday, September 23, 2012",2012,9,India,IN,Arunachal Pradesh,AR,West Siang,WSG,,28.19,94.32,EMD,North East,1
+IND_836,"Sunday, September 23, 2012",2012,9,India,IN,Arunachal Pradesh,AR,East Siang,ESN,,28.07,95.43,EMD,North East,1
+IND_837,"Sunday, September 23, 2012",2012,9,India,IN,Arunachal Pradesh,AR,Lohit,LHT,,27.95,96.16,EMD,North East,1
+IND_838,"Sunday, September 23, 2012",2012,9,India,IN,Arunachal Pradesh,AR,Papum Pare,PPP,,27.36,94.03,EMD,North East,1
+IND_839,"Thursday, August 23, 2012",2012,8,India,IN,Rajasthan,RJ,Dholpur,DLP,,26.69,77.88,EMD,North,2
+IND_840,"Thursday, August 23, 2012",2012,8,India,IN,Rajasthan,RJ,Dausa,DSA,,26.9,76.34,EMD,North,2
+IND_841,"Thursday, August 23, 2012",2012,8,India,IN,Rajasthan,RJ,Tonk,TNK,,26.17,75.76,EMD,North,2
+IND_842,"Thursday, August 23, 2012",2012,8,India,IN,Rajasthan,RJ,Jhunjhunu,JJU,,28.12,75.4,EMD,North,2
+IND_843,"Thursday, August 23, 2012",2012,8,India,IN,Rajasthan,RJ,Sikar,SKR,,27.61,75.15,EMD,North,2
+IND_844,"Thursday, August 23, 2012",2012,8,India,IN,Rajasthan,RJ,Hanumangarh,HMG,,29.59,74.33,EMD,North,2
+IND_845,"Thursday, August 23, 2012",2012,8,India,IN,Rajasthan,RJ,Bikaner,BKN,,28.03,73.33,EMD,North,2
+IND_846,"Thursday, August 23, 2012",2012,8,India,IN,Arunachal Pradesh,AR,Anjaw,AJW,,27.98,96.85,EMD,North East,1
+IND_847,"Thursday, August 23, 2012",2012,8,India,IN,Arunachal Pradesh,AR,Lower Dibang Valley,LDV,,28.22,95.51,EMD,North East,1
+IND_848,"Thursday, August 23, 2012",2012,8,India,IN,Arunachal Pradesh,AR,Upper Siang,UPS,,28.89,94.88,EMD,North East,1
+IND_849,"Tuesday, August 27, 2013",2013,8,India,IN,Madhya Pradesh,MP,Narmadapuram,NDP,Narmadapuram,22.75,77.71,EMD,Central,2
+IND_850,"Sunday, June 23, 2013",2013,6,India ,IN,Assam,AS,Bongaigaon,BGG,,26.49,90.53,EMD,North East,1
+IND_851,"Sunday, June 23, 2013",2013,6,India ,IN,Assam,AS,Dhemaji,DMJ,,27.48,94.53,EMD,North East,1
+IND_852,"Sunday, June 23, 2013",2013,6,India ,IN,Assam,AS,Golaghat,GLG,,26.52,93.97,EMD,North East,1
+IND_853,"Sunday, June 23, 2013",2013,6,India ,IN,Assam,AS,Jorhat,JHT,,26.75,94.2,EMD,North East,1
+IND_854,"Sunday, June 23, 2013",2013,6,India ,IN,Assam,AS,Kamrup,KRP,,26.13,90.72,EMD,North East,1
+IND_855,"Sunday, June 23, 2013",2013,6,India ,IN,Assam,AS,Karimganj,KMG,,24.87,92.36,EMD,North East,1
+IND_856,"Sunday, June 23, 2013",2013,6,India ,IN,Assam,AS,Kokrajhar,KKJ,,26.4,90.27,EMD,North East,1
+IND_857,"Sunday, June 23, 2013",2013,6,India ,IN,Assam,AS,Lakhimpur,LKM,,26.84,91.9,EMD,North East,1
+IND_858,"Sunday, June 23, 2013",2013,6,India ,IN,Assam,AS,Morigaon,MRG,,26.25,92.33,EMD,North East,1
+IND_859,"Sunday, June 23, 2013",2013,6,India ,IN,Assam,AS,Nagaon,NGN,,26.35,92.68,EMD,North East,1
+IND_860,"Sunday, June 23, 2013",2013,6,India ,IN,Assam,AS,Sivasagar,SVG,,26.98,94.64,EMD,North East,1
+IND_861,"Sunday, June 23, 2013",2013,6,India ,IN,Assam,AS,Tinsukia,TSK,,27.49,95.35,EMD,North East,1
+IND_862,"Thursday, August 22, 2013",2013,8,India ,IN,Madhya Pradesh,MP,Bhopal,BHP,,23.22,77.41,EMD,Central,2
+IND_863,"Thursday, August 22, 2013",2013,8,India ,IN,Madhya Pradesh,MP,Hoshangabad,HSG,,22.75,77.69,EMD,Central,2
+IND_864,"Thursday, August 22, 2013",2013,8,India ,IN,Madhya Pradesh,MP,Jabalpur,JBP,,23.18,79.96,EMD,Central,2
+IND_865,"Thursday, August 22, 2013",2013,8,India ,IN,Madhya Pradesh,MP,Narsinghpur,NSP,,22.95,79.2,EMD,Central,2
+IND_866,"Thursday, August 22, 2013",2013,8,India ,IN,Madhya Pradesh,MP,Seoni,SNI,,22.09,79.55,EMD,Central,2
+IND_867,"Tuesday, July 9, 2013",2013,7,India ,IN,Uttar Pradesh,UP,Bahraich,BHH,,27.58,81.6,EMD,North,2
+IND_868,"Tuesday, July 9, 2013",2013,7,India ,IN,Uttar Pradesh,UP,Barabanki,BBK,,26.94,81.19,EMD,North,2
+IND_869,"Tuesday, July 9, 2013",2013,7,India ,IN,Uttar Pradesh,UP,Basti,BST,,26.81,82.76,EMD,North,2
+IND_870,"Tuesday, July 9, 2013",2013,7,India ,IN,Uttar Pradesh,UP,Faizabad,FZB,,26.77,82.15,EMD,North,2
+IND_871,"Tuesday, July 9, 2013",2013,7,India ,IN,Uttar Pradesh,UP,Gonda,GND,,27.14,81.96,EMD,North,2
+IND_872,"Tuesday, July 9, 2013",2013,7,India ,IN,Uttar Pradesh,UP,Gorakhpur,GRK,,26.73,83.34,EMD,North,2
+IND_873,"Tuesday, July 9, 2013",2013,7,India ,IN,Uttar Pradesh,UP,Kushinagar,KSN,,26.74,83.89,EMD,North,2
+IND_874,"Tuesday, July 9, 2013",2013,7,India ,IN,Uttar Pradesh,UP,Raebareli,RBL,,26.24,81.25,EMD,North,2
+IND_875,"Tuesday, July 9, 2013",2013,7,India ,IN,Uttar Pradesh,UP,Shravasti,SVS,,27.51,82.04,EMD,North,2
+IND_876,"Tuesday, July 9, 2013",2013,7,India ,IN,Uttar Pradesh,UP,Sitapur,STP,,27.57,80.68,EMD,North,2
+IND_877,"Tuesday, July 9, 2013",2013,7,India ,IN,Uttar Pradesh,UP,Sultanpur,SLT,,26.26,82.08,EMD,North,2
+IND_878,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Sultanpur,SLT,,26.26,82.08,EMD,North,2
+IND_879,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Sitapur,STP,,27.57,80.68,EMD,North,2
+IND_880,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Raebareli,RBL,,26.24,81.25,EMD,North,2
+IND_881,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Barabanki,BBK,,26.94,81.19,EMD,North,2
+IND_882,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Ayodhya,AYD,,26.79,82.2,EMD,North,2
+IND_883,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Gorakhpur,GRK,,26.73,83.34,EMD,North,2
+IND_884,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Basti,BST,,26.81,82.76,EMD,North,2
+IND_885,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Kushinagar,KSN,,26.74,83.89,EMD,North,2
+IND_886,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Bahraich,BHH,,27.58,81.6,EMD,North,2
+IND_887,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Gonda,GND,,27.14,81.96,EMD,North,2
+IND_888,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Shravasti,SVS,,27.51,82.04,EMD,North,2
+IND_889,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Sultanpur,SLT,,26.26,82.08,EMD,North,2
+IND_890,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Sitapur,STP,,27.57,80.68,EMD,North,2
+IND_891,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Raebareli,RBL,,26.24,81.25,EMD,North,2
+IND_892,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Barabanki,BBK,,26.94,81.19,EMD,North,2
+IND_893,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Ayodhya,AYD,,26.79,82.2,EMD,North,2
+IND_894,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Gorakhpur,GRK,,26.73,83.34,EMD,North,2
+IND_895,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Basti,BST,,26.81,82.76,EMD,North,2
+IND_896,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Kushinagar,KSN,,26.74,83.89,EMD,North,2
+IND_897,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Bahraich,BHH,,27.58,81.6,EMD,North,2
+IND_898,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Gonda,GND,,27.14,81.96,EMD,North,2
+IND_899,"Wednesday, July 10, 2013",2013,7,India,IN,Uttar Pradesh,UP,Shravasti,SVS,,27.51,82.04,EMD,North,2
+IND_900,"Tuesday, August 27, 2013",2013,8,India,IN,Madhya Pradesh,MP,Bhopal,BHP,,23.22,77.41,EMD,Central,2
+IND_901,"Tuesday, August 27, 2013",2013,8,India,IN,Madhya Pradesh,MP,Seoni,SNI,,22.09,79.55,EMD,Central,2
+IND_902,"Tuesday, August 27, 2013",2013,8,India,IN,Madhya Pradesh,MP,Narsinghpur,NSP,,22.95,79.2,EMD,Central,2
+IND_903,"Tuesday, August 27, 2013",2013,8,India,IN,Madhya Pradesh,MP,Jabalpur,JBP,,23.18,79.96,EMD,Central,2
+IND_904,"Monday, July 15, 2013",2013,7,India,IN,Assam,AS,Dhemaji,DMJ,,27.48,94.53,EMD,North East,1
+IND_905,"Monday, July 15, 2013",2013,7,India,IN,Assam,AS,Tinsukia,TSK,,27.49,95.35,EMD,North East,1
+IND_906,"Monday, July 15, 2013",2013,7,India,IN,Assam,AS,Nagaon,NGN,,26.35,92.68,EMD,North East,1
+IND_907,"Monday, July 15, 2013",2013,7,India,IN,Assam,AS,Golaghat,GLG,,26.52,93.97,EMD,North East,1
+IND_908,"Monday, July 15, 2013",2013,7,India,IN,Assam,AS,Jorhat,JHT,,26.75,94.2,EMD,North East,1
+IND_909,"Monday, July 15, 2013",2013,7,India,IN,Assam,AS,Kamrup,KRP,,26.13,90.72,EMD,North East,1
+IND_910,"Monday, July 15, 2013",2013,7,India,IN,Assam,AS,Karimganj,KMG,,24.87,92.36,EMD,North East,1
+IND_911,"Monday, July 15, 2013",2013,7,India,IN,Uttar Pradesh,UP,Lakhimpur Kheri,LKH,,27.94,80.76,EMD,North,2
+IND_912,"Monday, July 15, 2013",2013,7,India,IN,Assam,AS,Morigaon,MRG,,26.25,92.33,EMD,North East,1
+IND_913,"Monday, July 15, 2013",2013,7,India,IN,Assam,AS,Sivasagar,SVG,,26.98,94.64,EMD,North East,1
+IND_914,"Monday, July 15, 2013",2013,7,India,IN,Assam,AS,Bongaigaon,BGG,,26.49,90.53,EMD,North East,1
+IND_915,"Monday, July 15, 2013",2013,7,India,IN,Assam,AS,Chirang,CRN,,26.64,90.64,EMD,North East,1
+IND_916,"Monday, July 15, 2013",2013,7,India,IN,Assam,AS,Kokrajhar,KKJ,,26.4,90.27,EMD,North East,1
